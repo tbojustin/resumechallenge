@@ -4,7 +4,13 @@ title: "FAQ"
 weight: 1
 ---
 
-## Who can complete the Cloud Resume Challenge?
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Who can complete the Cloud Resume Challenge?
 
 Short answer: anybody! It's a fun way to level up your cloud skills, even if you're already a professional.
 
@@ -14,9 +20,9 @@ For example, somebody who completes the Cloud Resume Challenge with no prior IT 
 
 ## Who are you and why are you doing this?
 
-My name is [Forrest Brazeal](https://forrestbrazeal.com). I'm an AWS Serverless Hero and I've been building in the cloud for many years.
+My name is [Forrest Brazeal](https://forrestbrazeal.com). I'm an AWS Serverless Hero and I've been building in the cloud for many years. I would not be at this point in my career without the generous help of many people.
 
-I work at [A Cloud Guru](https://acloud.guru), a cloud education company, but this is my personal attempt to give back knowledge and expertise to the community. 
+I work at [A Cloud Guru](https://acloud.guru), a cloud education company, but this is a personal attempt to give back to the community. 
 
 ## Does completing the Cloud Resume Challenge guarantee I will get a job in the cloud?
 
@@ -32,10 +38,17 @@ Those are skills you can take to a job interview. And I'll do my best to help yo
 
 Good luck!
 
+## Can I complete the challenge using [different technology X]?
+Yes! Feel free to use different cloud providers, DevOps tools, etc -- as long as you have met the end objective described in each step.
+
 ## Can I share my solutions online?
 
 You are encouraged to share your general observations and personal approach to solving the challenge when you write your wrap-up blog post. However, I ask that you please don't share your Python and Javascript code. Let's keep the challenge properly challenging for others!
 
 ## Are there other resources I can use to get some professional experience on my resume?
 
-Check out Anthony James' [Kysen Journal](http://kysenjournal.com/) -- he is paying qualified applicants to build their resume with microprojects. Completing the Cloud Resume Challenge is one way to qualify for this.
+Check out Anthony James' [Kysen Journal](http://kysenjournal.com/) -- he is paying qualified applicants to build their resume with microprojects. Completing the Cloud Resume Challenge is one way to meet his training prerequisites.
+
+## What is the cloud, anyway?
+
+Hey, I wrote a [book](https://www.amazon.com/Read-Aloud-Cloud-Innocents-Inside/dp/1119677629/) about that!

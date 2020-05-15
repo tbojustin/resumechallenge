@@ -5,19 +5,28 @@ title = "The cloud resume challenge"
 {{< block "grid-2 mt-2" >}}
 {{< column >}}
 
-# A cloud project anyone can complete.
+<br>
+<br>
+<br>
+<br>
+<br>
 
-Here's the deal: send me your resume, and I will do my best to help you get a job in the cloud. 
+# A cloud project to advance your career.
 
-Yes, there are some conditions.
+Hi! My name is [Forrest Brazeal](https://forrestbrazeal.com).
 
-{{< button "instructions/" "Take the challenge" >}} {{< button "halloffame/" "Hall of Fame" >}}
+I want to help you get your first job in the cloud, so I'm [volunteering my network](https://cloudirregular.substack.com/p/the-cloud-resume-challenge).
+
+But I can only share a certain type of resume.
+
+{{< button "instructions/" "Take the challenge" >}} {{< button "https://cloudirregular.substack.com/" "Join the mailing list" >}}
 
 {{< /column >}}
 {{< column >}}
-![diy](/images/diy.jpeg)
+<br>
+<br>
 
-<!-- Photo by [Jasmin Schreiber](https://unsplash.com/@lavievagabonde?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash -->
+![diy](/images/resume.png)
 
 {{< /column >}}
 {{< /block >}}
