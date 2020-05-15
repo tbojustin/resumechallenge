@@ -11,7 +11,7 @@ weight: 1
 <br>
 
 # Instructions
-Complete these steps so I can share your resume with as many people as possible.
+Complete these steps so I can share your resume with as many people as possible. See [the FAQ](https://cloudresumechallenge.dev/faq) for more context on why I chose these specific steps.
 
 ## 1. Certification
 
