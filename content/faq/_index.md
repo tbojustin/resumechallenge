@@ -24,6 +24,9 @@ My name is [Forrest Brazeal](https://forrestbrazeal.com). I'm an AWS Serverless 
 
 I work at [A Cloud Guru](https://acloud.guru), a cloud education company, but this is a personal attempt to give back to the community. 
 
+## Is there a deadline to complete the challenge?
+No, this is a standing offer.
+
 ## Does completing the Cloud Resume Challenge guarantee I will get a job in the cloud?
 
 No. But I will get your name and resume in front of as many people as I can to help.
