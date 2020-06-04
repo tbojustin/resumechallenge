@@ -10,7 +10,6 @@
 		</picture>
 	</a>
 	{{ if .Site.Params.enableSearch | default true }}
-	{{- partial "search.html" . }}
 	{{ end }}
 	<ul class="nav_body">
 		{{- $p := . }}
