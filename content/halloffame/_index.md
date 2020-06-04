@@ -11,7 +11,7 @@ weight: 1
 
 # Hall of Fame
 
-Here we celebrate the stories of those who crush the Cloud Resume Challenge. Many of these folks had no previous IT experience. All of them are now certified cloud engineers.
+Here we celebrate the stories of those who crush the Cloud Resume Challenge. Many of these folks had no previous IT experience. All of them are now certified cloud practitioners.
 
 {{< block "grid-2" >}}
   {{< column "mt-2 mb-2" >}}
