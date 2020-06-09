@@ -71,3 +71,7 @@ Here's my [Cloud Resume Blog](https://lnkd.in/e2dJM_W), and my [Finished Product
   <img src="/images/jerry.jpeg" width="200" height="200">
   {{< /column >}}
 {{< /block >}}
+
+*Did the Cloud Resume Challenge help your career? Your story belongs on this page!*
+
+{{< button "https://forrestbrazeal.com/#contact" "Contact Forrest" >}}
