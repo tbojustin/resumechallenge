@@ -29,6 +29,36 @@ Of course my knowledge of networking, TCP/IP and the 2 AWS certifications (SAA a
 
 {{< block "grid-2" >}}
   {{< column "mt-2 mb-2" >}}
+  ### Mohamed Muhannad (challenge completed June 2020): 
+
+Coming from an IT infrastructure background for the most part of my career, completing this challenge has been an eye-opener. I believe it’s important to adapt to new concepts for working with the cloud and be ready for what the future might bring. I think this is a turning point for my career and will be working on finding a role more focused on cloud engineering.
+
+Here's my [resume](https://muhannad.io/).
+
+I also wrote a [series of blogs](https://muhannad0.github.io/post/the-cloud-resume-challenge/) about my experience as I worked through the challenge. 
+
+  {{< /column >}}
+  {{< column "mt-2 mb-2" >}}
+<img src="/images/mohamed.jpeg" width="200" height="200">
+  {{< /column >}}
+{{< /block >}}
+
+{{< block "grid-2" >}}
+  {{< column "mt-2 mb-2" >}}
+  ### Jeremy Swingle (challenge completed June 2020): 
+
+Overall, I appreciated this challenge. It provided a framework for me to not only learn some new things, but also put together a coherent project using things I had already messed around with. Perhaps most importantly, though, I gained more confidence! There's nothing like the satisfaction of seeing multiple parts of a project "click" together and work just like I wanted it to. This was an exciting opportunity for both my career development and my personal progress.
+
+Here's my [resume](https://www.j-swingle.com/), and a [blog](https://dev.to/jswingle/taking-the-cloudresumechallenge-3lnf) with my advice for future challengers. 
+
+  {{< /column >}}
+  {{< column "mt-2 mb-2" >}}
+<img src="/images/jeremy-swingle.jpg" width="200" height="200">
+  {{< /column >}}
+{{< /block >}}
+
+{{< block "grid-2" >}}
+  {{< column "mt-2 mb-2" >}}
   ### Darius Jennings (challenge completed June 2020): 
 
   I had been looking for some cloud projects that I could add to my resume and I came across this challenge by to create an online resume using AWS and some coding. After reading the instructions, I felt like I was up for the challenge! It took me a few days and I have completed the challenge.
