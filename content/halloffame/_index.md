@@ -29,6 +29,20 @@ Of course my knowledge of networking, TCP/IP and the 2 AWS certifications (SAA a
 
 {{< block "grid-2" >}}
   {{< column "mt-2 mb-2" >}}
+  ### Will Boland (challenge completed June 2020): 
+
+Overall, the Cloud Resume Challenge was a fun, engaging project with "challenge" being the operative word. I learned a lot about cloud services, infrastructure-as-code, serverless applications, CI/CD, and some programming skills. I also learned a lot about myself, namely that a beginner's mindset is powerful and that I'm excited to keep going. 
+
+Here's my [resume](https://www.williamsboland.com/) and a [blog](https://dev.to/wboland33/my-experience-with-the-cloud-resume-challenge-1ade) about my work.
+
+  {{< /column >}}
+  {{< column "mt-2 mb-2" >}}
+<img src="/images/will-boland.jpeg" width="200" height="200">
+  {{< /column >}}
+{{< /block >}}
+
+{{< block "grid-2" >}}
+  {{< column "mt-2 mb-2" >}}
   ### Mohamed Muhannad (challenge completed June 2020): 
 
 Coming from an IT infrastructure background for the most part of my career, completing this challenge has been an eye-opener. I believe it’s important to adapt to new concepts for working with the cloud and be ready for what the future might bring. I think this is a turning point for my career and will be working on finding a role more focused on cloud engineering.
