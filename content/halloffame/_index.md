@@ -15,6 +15,24 @@ Here we celebrate the stories of those who crush the Cloud Resume Challenge. Man
 
 {{< block "grid-2" >}}
   {{< column "mt-2 mb-2" >}}
+  ### Darius Jennings (HIRED July 2020): 
+
+  I had been looking for some cloud projects that I could add to my resume and I came across this challenge by to create an online resume using AWS and some coding. After reading the instructions, I felt like I was up for the challenge! It took me a few days to complete the challenge.
+
+  About a month later, I accepted an offer for a Cloud Engineer position! I will be a part of a cloud migration team at ECS. They are also doing some things with Chef, Jenkins, Docker and Kubernetes so I get the cloud and devops experience I am looking for! I'm so excited! I really used my experience from the resume challenge to sell my AWS experience during this interview.
+
+Here's my [resume](https://lnkd.in/gRv7Z4z).
+
+Here's my [blog post](https://lnkd.in/gGmtAtQ) about my experience. 
+
+  {{< /column >}}
+  {{< column "mt-2 mb-2" >}}
+<img src="/images/darius.jpeg" width="200" height="200">
+  {{< /column >}}
+{{< /block >}}
+
+{{< block "grid-2" >}}
+  {{< column "mt-2 mb-2" >}}
   ### Romulo Brandino Silva (hired June 2020): 
 I got an offer from Microsoft in Las Colinas, TX. I’ll be an Azure Support Engineer in Networking.
 
@@ -24,6 +42,20 @@ Of course my knowledge of networking, TCP/IP and the 2 AWS certifications (SAA a
   {{< /column >}}
   {{< column "mt-2 mb-2" >}}
 <img src="/images/romulo.jpeg" width="200" height="200">
+  {{< /column >}}
+{{< /block >}}
+
+{{< block "grid-2" >}}
+  {{< column "mt-2 mb-2" >}}
+  ### Tejas Bhagat (challenge completed June 2020): 
+
+I found this challenge on r/AWSCertifications after passing my CSAA test and thought it would be a great way to get more hands on exposure with AWS and to buff up my resume a bit. Though there were a lot of steps I didn't completely understand at first, I had a ton of fun googling through any roadblocks I faced and reading through pages (and pages) of documentation on various services to complete the challenge.
+
+Here's my [resume](https://tejasbhagat.com/#about) and a [blog](https://dev.to/tbhagat/road-to-the-cloud-resume-challenge-42e5) about my work.
+
+  {{< /column >}}
+  {{< column "mt-2 mb-2" >}}
+<img src="/images/tejas-bhagat.jpeg" width="200" height="200">
   {{< /column >}}
 {{< /block >}}
 
@@ -68,22 +100,6 @@ Here's my [resume](https://www.j-swingle.com/), and a [blog](https://dev.to/jswi
   {{< /column >}}
   {{< column "mt-2 mb-2" >}}
 <img src="/images/jeremy-swingle.jpg" width="200" height="200">
-  {{< /column >}}
-{{< /block >}}
-
-{{< block "grid-2" >}}
-  {{< column "mt-2 mb-2" >}}
-  ### Darius Jennings (challenge completed June 2020): 
-
-  I had been looking for some cloud projects that I could add to my resume and I came across this challenge by to create an online resume using AWS and some coding. After reading the instructions, I felt like I was up for the challenge! It took me a few days and I have completed the challenge.
-
-Here's my [resume](https://lnkd.in/gRv7Z4z).
-
-Here's my [blog post](https://lnkd.in/gGmtAtQ) about my experience. 
-
-  {{< /column >}}
-  {{< column "mt-2 mb-2" >}}
-<img src="/images/darius.jpeg" width="200" height="200">
   {{< /column >}}
 {{< /block >}}
 
