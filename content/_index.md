@@ -19,7 +19,7 @@ I want to help you get your first job in the cloud, so I'm [volunteering my netw
 
 But I can only share a certain type of resume.
 
-{{< button "instructions/" "Take the challenge" >}} {{< button "https://cloudirregular.substack.com/" "Join the mailing list" >}}
+{{< button "instructions/" "Take the challenge" >}} {{< button "https://discord.gg/mr63ws" "Join the Discord" >}}
 
 {{< /column >}}
 {{< column >}}
