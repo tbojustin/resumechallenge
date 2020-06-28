@@ -44,7 +44,7 @@ Good luck!
 ## Can I complete the challenge using [different technology X]?
 Yes! Feel free to use different cloud providers, DevOps tools, etc -- as long as you have met the end objective described in each step.
 
-For example, Quang Ngo shows how [he used GCP services](https://medium.com/@quangngotan95/the-cloud-resume-challenge-with-gcp-d331055b667c) to complete the challenge.
+For example, Quang Ngo shows how [he used GCP services](https://medium.com/@quangngotan95/the-cloud-resume-challenge-with-gcp-d331055b667c) to complete the challenge. Brian Adams [did the whole thing on Kubernetes](https://homelab.contrasting.org/technical/2020/06/26/cloud-resume-challenge.html), somehow.
 
 ## Can I share my solutions online?
 
