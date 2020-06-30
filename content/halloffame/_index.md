@@ -47,6 +47,34 @@ Of course my knowledge of networking, TCP/IP and the 2 AWS certifications (SAA a
 
 {{< block "grid-2" >}}
   {{< column "mt-2 mb-2" >}}
+  ### Brooke Mitchell (challenge completed June 2020): 
+
+One of the most important things I learned during this challenge is that I love the cloud as much as I thought I did, if not more. Prior to this challenge, all but two of my AWS projects were from studying for the Solutions Architect Associate exam. This project has taken me the longest to complete but has been the most rewarding. This experience has given me a deeper understanding of how different AWS components work together.
+
+Here's my [resume](https://brookesresume.com/) and a [blog](https://dev.to/bmitchell21/i-completed-the-cloud-resume-challenge-43kk) about my work.
+
+  {{< /column >}}
+  {{< column "mt-2 mb-2" >}}
+<img src="/images/brooke.jpeg" width="200" height="200">
+  {{< /column >}}
+{{< /block >}}
+
+{{< block "grid-2" >}}
+  {{< column "mt-2 mb-2" >}}
+  ### Bolaji Akande (challenge completed June 2020): 
+
+I really enjoyed working on this challenge as it gave me practical knowledge on cloud concepts and tools such as hosting static websites on Amazon S3 buckets, working with Amazon Route53, using Amazon DynamoDB, working with AWS SAM (Serverless Application Model) and integrating CI/CD into your projects using Github Actions.
+
+Here is a link to my [finished project](https://bolajiakande.com) and a link to my [blog post about the challenge](https://lnkd.in/dXY2Z5u).
+
+  {{< /column >}}
+  {{< column "mt-2 mb-2" >}}
+<img src="/images/bolaji.jpeg" width="200" height="200">
+  {{< /column >}}
+{{< /block >}}
+
+{{< block "grid-2" >}}
+  {{< column "mt-2 mb-2" >}}
   ### Tejas Bhagat (challenge completed June 2020): 
 
 I found this challenge on r/AWSCertifications after passing my CSAA test and thought it would be a great way to get more hands on exposure with AWS and to buff up my resume a bit. Though there were a lot of steps I didn't completely understand at first, I had a ton of fun googling through any roadblocks I faced and reading through pages (and pages) of documentation on various services to complete the challenge.
