@@ -15,7 +15,7 @@ Here we celebrate the stories of those who crush the Cloud Resume Challenge. Man
 
 {{< block "grid-2" >}}
   {{< column "mt-2 mb-2" >}}
-  ### Darius Jennings (HIRED July 2020): 
+  ### Darius Jennings (hired July 2020): 
 
   I had been looking for some cloud projects that I could add to my resume and I came across this challenge by to create an online resume using AWS and some coding. After reading the instructions, I felt like I was up for the challenge! It took me a few days to complete the challenge.
 
@@ -70,6 +70,20 @@ Here is a link to my [finished project](https://bolajiakande.com) and a link to 
   {{< /column >}}
   {{< column "mt-2 mb-2" >}}
 <img src="/images/bolaji.jpeg" width="200" height="200">
+  {{< /column >}}
+{{< /block >}}
+
+{{< block "grid-2" >}}
+  {{< column "mt-2 mb-2" >}}
+  ### Chris Nagy (challenge completed June 2020): 
+
+I have both enjoyed and learned a lot from this challenge. I would like to thank Forrest for creating it as I believe the very best way to learn anything is through actual projects — nothing beats hands-on experience.
+
+Here is a link to my [finished project](heyitschris.com) and a link to my [blog post about the challenge](https://medium.com/@chris_nagy/the-cloud-resume-challenge-was-a-bless-2e37889f25d1).
+
+  {{< /column >}}
+  {{< column "mt-2 mb-2" >}}
+<img src="/images/chris-nagy.jpeg" width="200" height="200">
   {{< /column >}}
 {{< /block >}}
 
