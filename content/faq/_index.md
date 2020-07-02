@@ -10,6 +10,11 @@ weight: 1
 <br>
 <br>
 
+<div class="info-msg">
+  <i class="fa fa-info-circle"></i>
+  NOTE: Code review for this challenge ends July 31, after a full #100DaysOfCloud. After July 31, you are free to share your GitHub code publicly, or to keep working on this challenge on your own. <a href="https://discord.gg/2PTwAth">Join the Discord server</a> to keep updated on job postings and future challenges.
+</div>
+
 # Who can complete the Cloud Resume Challenge?
 
 Short answer: anybody! It's a fun way to level up your cloud skills, even if you're already a professional.
@@ -25,7 +30,7 @@ My name is [Forrest Brazeal](https://forrestbrazeal.com). I'm an AWS Serverless 
 I work at [A Cloud Guru](https://acloud.guru), a cloud education company, but this is a personal attempt to give back to the community. 
 
 ## Is there a deadline to complete the challenge?
-No, this is a standing offer.
+Code review and other personal feedback from Forrest will mostly end on July 31, 2020. After that the challenge will be deprecated, but you can still work on it if you like.
 
 ## Does completing the Cloud Resume Challenge guarantee I will get a job in the cloud?
 

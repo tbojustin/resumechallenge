@@ -10,6 +10,11 @@ weight: 1
 <br>
 <br>
 
+<div class="info-msg">
+  <i class="fa fa-info-circle"></i>
+  NOTE: Code review for this challenge ends July 31, after a full #100DaysOfCloud. After July 31, you are free to share your GitHub code publicly, or to keep working on this challenge on your own. <a href="https://discord.gg/2PTwAth">Join the Discord server</a> to keep updated on job postings and future challenges.
+</div>
+
 # Instructions
 Complete these steps so I can share your resume with as many people as possible. See [the FAQ](https://cloudresumechallenge.dev/faq) for more context on why I chose these specific steps.
 
