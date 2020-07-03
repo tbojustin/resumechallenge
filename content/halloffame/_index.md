@@ -84,7 +84,7 @@ Here is a link to my [finished project](https://bolajiakande.com) and a link to 
 
 I have both enjoyed and learned a lot from this challenge. I would like to thank Forrest for creating it as I believe the very best way to learn anything is through actual projects — nothing beats hands-on experience.
 
-Here is a link to my [finished project](heyitschris.com) and a link to my [blog post about the challenge](https://medium.com/@chris_nagy/the-cloud-resume-challenge-was-a-bless-2e37889f25d1).
+Here is a link to my [finished project](https://heyitschris.com) and a link to my [blog post about the challenge](https://medium.com/@chris_nagy/the-cloud-resume-challenge-was-a-bless-2e37889f25d1).
 
   {{< /column >}}
   {{< column "mt-2 mb-2" >}}
