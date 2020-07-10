@@ -52,6 +52,20 @@ Of course my knowledge of networking, TCP/IP and the 2 AWS certifications (SAA a
 
 {{< block "grid-2" >}}
   {{< column "mt-2 mb-2" >}}
+  ### Jakob Ondrey (challenge completed July 2020): 
+
+As a clinical laboratory technician trying to pivot into a new career in Cloud and software development, I have often found it difficult to turn theoretical knowledge into real meaningful experience. The suggestion from those with experience is typically, "do some projects" but this is always easier said than done. There are only so many "Hello world" applications you can write before you start losing focus revert back to watching the world burn. When I learned about the Cloud Resume Challenge, I realized it was the perfect project for diving in to the Cloud field.
+
+Read more in my [blog series](https://dev.to/misterjacko/getting-wet-falling-through-a-cloud-4eb5) about the challenge, and check out my [resume](https://www.jakobondrey.com/).
+
+  {{< /column >}}
+  {{< column "mt-2 mb-2" >}}
+<img src="/images/ondrey.jpeg" width="200" height="200">
+  {{< /column >}}
+{{< /block >}}
+
+{{< block "grid-2" >}}
+  {{< column "mt-2 mb-2" >}}
   ### Brooke Mitchell (challenge completed June 2020): 
 
 One of the most important things I learned during this challenge is that I love the cloud as much as I thought I did, if not more. Prior to this challenge, all but two of my AWS projects were from studying for the Solutions Architect Associate exam. This project has taken me the longest to complete but has been the most rewarding. This experience has given me a deeper understanding of how different AWS components work together.
