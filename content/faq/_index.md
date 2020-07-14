@@ -15,7 +15,9 @@ weight: 1
   NOTE: Code review for this challenge ends July 31, after a full #100DaysOfCloud. After July 31, you are free to share your GitHub code publicly, or to keep working on this challenge on your own. <a href="https://discord.gg/2PTwAth">Join the Discord server</a> to keep updated on job postings and future challenges.
 </div>
 
-# Who can complete the Cloud Resume Challenge?
+[Read a Spanish translation of this page by Jesus Rodriguez](/faq_es)
+
+## Who can complete the Cloud Resume Challenge?
 
 Short answer: anybody! It's a fun way to level up your cloud skills, even if you're already a professional.
 
