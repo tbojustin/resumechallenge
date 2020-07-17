@@ -52,6 +52,49 @@ Of course my knowledge of networking, TCP/IP and the 2 AWS certifications (SAA a
 
 {{< block "grid-2" >}}
   {{< column "mt-2 mb-2" >}}
+  ### Stacy Stipes (challenge completed July 2020): 
+
+This entire experience has been extremely rewarding. The hours that I spent every night going down Google rabbit holes, experimenting with code, and configuring the various AWS components just solidified and built upon the knowledge that I had going into the challenge. More importantly, I learned the importance of breaking down complex problems into small manageable pieces, and not giving in to frustration when errors occur. It's a cliché but it's true: if you're not making mistakes, you're not learning! Finally, I discovered that I really, really enjoy working on projects like this, and I especially love coding. Once I got into the flow, I would completely lose track of time because I was having so much fun with it.
+
+Read more in my [blog](https://dev.to/stacystipes/the-cloud-resume-challenge-how-i-fell-in-love-with-sam-2ik3) about the challenge, and check out my [resume](https://stacystipes.com/).
+
+  {{< /column >}}
+  {{< column "mt-2 mb-2" >}}
+<img src="/images/stacy.jpeg" width="200" height="200">
+  {{< /column >}}
+{{< /block >}}
+
+{{< block "grid-2" >}}
+  {{< column "mt-2 mb-2" >}}
+  ### Nana Quayson (challenge completed July 2020): 
+
+This project presented a refreshing challenge, motivating me to do a lot of reading about Docker and the AWS CLI. I have learnt CICD automation for cloud infrastructure and how to include unit testing into the workflow Pipeline. I learned to integrate a lot of the services, which I had previously not used together. I discovered portals where I can do further reading when I run into problems with AWS services. 
+
+Read more in my [blog](https://dev.to/nquayson/the-cloud-resume-challenge-was-worth-its-weight-in-gold-4gjb) about the challenge, and check out my [resume](https://nquayson.com/).
+
+  {{< /column >}}
+  {{< column "mt-2 mb-2" >}}
+<img src="/images/nana.jpeg" width="200" height="200">
+  {{< /column >}}
+{{< /block >}}
+
+{{< block "grid-2" >}}
+  {{< column "mt-2 mb-2" >}}
+  ### Antonio Lo Fiego (challenge completed July 2020): 
+
+I just learned that that my very first article documenting my experience with the Cloud Resume Challenge is now recommended on Medium for Software Engineering and Programming topics. The effect of being in amazing and supporting communities is unbelievable, and I am definitely sitting on the shoulders of a lot of giants.
+Next steps, finishing up the development of the #100DaysOfCloud app and getting that AWS Solutions Architect - Associate certification!
+
+Read more in my [blog](https://medium.com/dev-genius/the-cloud-resume-challenge-or-how-i-learned-to-stop-worrying-and-love-the-cloud-f057f437d6ce) about the challenge, and check out my [resume](https://antoniolofiego.com/).
+
+  {{< /column >}}
+  {{< column "mt-2 mb-2" >}}
+<img src="/images/antonio.jpeg" width="200" height="200">
+  {{< /column >}}
+{{< /block >}}
+
+{{< block "grid-2" >}}
+  {{< column "mt-2 mb-2" >}}
   ### Jakob Ondrey (challenge completed July 2020): 
 
 As a clinical laboratory technician trying to pivot into a new career in Cloud and software development, I have often found it difficult to turn theoretical knowledge into real meaningful experience. The suggestion from those with experience is typically, "do some projects" but this is always easier said than done. There are only so many "Hello world" applications you can write before you start losing focus revert back to watching the world burn. When I learned about the Cloud Resume Challenge, I realized it was the perfect project for diving in to the Cloud field.
