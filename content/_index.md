@@ -13,9 +13,9 @@ title = "The cloud resume challenge"
 
 # A proven way to advance your cloud career.
 
-"Doing the Cloud Resume Challenge was one of the best decisions I've ever made."
+> "Doing the Cloud Resume Challenge was one of the best decisions I've ever made."
 
-- Stephanie K, from bank clerk to Associate Cloud Engineer in 3 months
+> - Stephanie K, from bank clerk to Associate Cloud Engineer in 3 months
 
 So, you want a six-figure cloud engineering job? Get in line ... or skip the line.
 
