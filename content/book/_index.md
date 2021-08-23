@@ -30,6 +30,16 @@ Now, I've packed the top challenge tips, strategies, and resources into one book
 
 {{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book" "Get the book" >}}
 
+{{< /column >}}
+{{< column >}}
+<br>
+<br>
+
+[![diy](/images/book.png)](https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book)
+
+{{< /column >}}
+{{< /block >}}
+
 ## What's Inside
 
 I used feedback from the 1500+ member Cloud Resume Challenge Discord community to help you create **the ultimate cloud resume-building project**.
@@ -51,13 +61,3 @@ Plus, you get free access to my regular "Best Jobs in Cloud" newsletter, featuri
 > **"Everyone in the interview loop at Amazon seemed impressed with the range of services used within this one project."** <br> -*Jerry M, from respiratory therapist to solutions architect at AWS*
 
 {{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book" "Get started now" >}}
-
-{{< /column >}}
-{{< column >}}
-<br>
-<br>
-
-[![diy](/images/book.png)](https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book)
-
-{{< /column >}}
-{{< /block >}}
