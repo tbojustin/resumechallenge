@@ -14,9 +14,9 @@ weight: 1
 
 # A proven way to advance your cloud career.
 
-> **"Doing the Cloud Resume Challenge was one of the best decisions I've ever made."**
+> **"This challenge was a HUGE hit with employers."**
 
-> -*Stephanie K, from bank clerk to Associate Cloud Engineer in 3 months*
+> -*Tejas B, from help desk to DevOps engineer*
 
 So, you want a six-figure cloud engineering job? Get in line ... or skip the line.
 
