@@ -14,7 +14,7 @@ weight: 1
 
 # A proven way to advance your cloud career.
 
-> **"This challenge was a HUGE hit with employers."** <br> -*Tejas B, from help desk to DevOps engineer*
+> **"This challenge was a HUGE hit with prospective employers."** <br> -*Tejas B, from help desk to DevOps engineer*
 
 Since April 2020, the Cloud Resume Challenge has helped hundreds of people
 
