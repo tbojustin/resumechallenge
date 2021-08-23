@@ -17,14 +17,14 @@ title = "The cloud resume challenge"
 
 So, you want a high-paying cloud job? Time to build some experience. 
 
-{{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book" "Get the ebook" >}} {{< button "https://discord.gg/2PTwAth" "Join the Discord server" >}}
+{{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book" "Get the ebook" >}}{{< button "https://discord.gg/2PTwAth" "Join the Discord server" >}}
 
 {{< /column >}}
 {{< column >}}
 <br>
 <br>
 
-[![diy](/images/book.png)](https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book)
+[![diy](/images/book.png)](https://cloudresumechallenge.dev/book)
 
 {{< /column >}}
 {{< /block >}}
