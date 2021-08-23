@@ -32,21 +32,21 @@ Now, I've packed the top challenge tips, strategies, and resources into one book
 
 ## What's Inside
 
-I used feedback from the 1500+ member Cloud Resume Challenge Discord community to help you create the ultimate cloud resume-building project.
+I used feedback from the 1500+ member Cloud Resume Challenge Discord community to help you create **the ultimate cloud resume-building project**.
 
-• 130+ pages of tools, tips, and bonus projects
+• **130+ pages** of tools, tips, and bonus projects
 
-• The secret "17th step" that makes your project stand out above the crowd
+• **The secret "17th step"** that makes your project stand out above the crowd
 
-• How to write a challenge blog post that will get the right kind of attention
+• How to write a challenge blog post that will get **the right kind of attention**
 
-• **Four all-new bonus projects covering AWS, Kubernetes, and more**
+• **Four all-new bonus projects** covering AWS, Kubernetes, and more
 
-• Proven challenge-to-job strategies for both career-changers and upskillers
+• **Proven challenge-to-job strategies** for both career-changers and upskillers
 
-• Case studies from challenge champions: how they got hired, what they learned
+• **Case studies from challenge champions**: how they got hired, what they learned
 
-Plus, you get free access to my regular "Best Jobs in Cloud" newsletter, featuring curated job opportunities for both juniors and seniors.
+Plus, you get free access to my regular "Best Jobs in Cloud" newsletter, featuring **curated job opportunities** for both juniors and seniors.
 
 > **"Everyone in the interview loop at Amazon seemed impressed with the range of services used within this one project."** <br> -*Jerry M, from respiratory therapist to solutions architect at AWS*
 
