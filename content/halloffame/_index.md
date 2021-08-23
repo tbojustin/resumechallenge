@@ -10,7 +10,6 @@ weight: 1
 <br>
 
 <div class="info-msg">
-  <i class="fa fa-info-circle"></i>
    Preorder <a href="https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book">the Cloud Resume Challenge book</a> now!
 </div>
 

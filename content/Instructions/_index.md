@@ -11,7 +11,6 @@ weight: 1
 <br>
 
 <div class="info-msg">
-  <i class="fa fa-info-circle"></i>
    Preorder <a href="https://discord.gg/2PTwAth">the Cloud Resume Challenge book</a> now!
 </div>
 

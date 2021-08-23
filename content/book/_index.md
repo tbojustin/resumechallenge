@@ -16,8 +16,6 @@ weight: 1
 
 > **"This challenge was a HUGE hit with employers."** <br> -*Tejas B, from help desk to DevOps engineer*
 
-So, you want a high-paying cloud engineering job? Get in line ... or skip the line.
-
 Since April 2020, the Cloud Resume Challenge has helped hundreds of people
 
 • skill up on cloud,
@@ -26,7 +24,7 @@ Since April 2020, the Cloud Resume Challenge has helped hundreds of people
 
 • and even land cloud jobs from totally non-tech fields like plumbing and HR.
 
-Now, I've packed their top tips, strategies, and resources into one book, so you too can build skills, make connections, and get a cloud job FAST.
+Now, I've packed the top challenge tips, strategies, and resources into one book, so you too can build skills, make connections, and get a cloud job FAST.
 
 > **"If you want to get your first job in the cloud, there is NO BETTER OFFER right now than Forrest Brazeal's Cloud Resume Challenge."** <br> -[Shawn "swyx" Wang, author of "Cracking the Coding Career"](https://twitter.com/swyx/status/1266355081995149313)
 
