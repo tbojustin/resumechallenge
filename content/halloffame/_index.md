@@ -150,9 +150,6 @@ Check out Brooke's [resume](https://brookesresume.com/) and this [blog](https://
 
 {{< block "grid-2" >}}
   {{< column "mt-2 mb-2" >}}
-
-{{< block "grid-2" >}}
-  {{< column "mt-2 mb-2" >}}
   ### Tejas' story: the road from help desk to DevOps Engineer
 
 "Before I took on the Cloud Resume Challenge, I worked as an IT Operations Engineer providing level 1 support for windows servers, end-users in our SOC, and opened/managed technical bridges for company-wide IT outages.
