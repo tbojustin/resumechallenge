@@ -12,7 +12,7 @@ weight: 1
 
 <div class="info-msg">
   <i class="fa fa-info-circle"></i>
-  NOTE: Code review for this challenge ends July 31, after a full #100DaysOfCloud. After July 31, you are free to share your GitHub code publicly, or to keep working on this challenge on your own. <a href="https://discord.gg/2PTwAth">Join the Discord server</a> to keep updated on job postings and future challenges.
+  Preorder <a href="https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book">the Cloud Resume Challenge book</a> now!
 </div>
 
 [Read a Spanish translation of this page by Jesus Rodriguez](/faq_es)
@@ -21,46 +21,45 @@ weight: 1
 
 Short answer: anybody! It's a fun way to level up your cloud skills, even if you're already a professional.
 
-However, the less prior experience you have, the bigger deal I will make out of you.
-
-For example, somebody who completes the Cloud Resume Challenge with no prior IT experience or related degree is going to get personal shoutouts on my [Twitter](https://twitter.com/forrestbrazeal) and [LinkedIn](https://www.linkedin.com/in/forrestbrazeal/), personalized code reviews, direct intros to hiring managers, etc.
+(It's extra impressive coming from folks brand-new to cloud, though!)
 
 ## Who are you and why are you doing this?
 
-My name is [Forrest Brazeal](https://forrestbrazeal.com). I'm an AWS Serverless Hero and I've been building in the cloud for many years. I would not be at this point in my career without the generous help of many people.
+My name is [Forrest Brazeal](https://forrestbrazeal.com). I've been building in the cloud for many years. I would not be at this point in my career without the generous help of many people.
 
-I work at [A Cloud Guru](https://acloud.guru), a cloud education company, but this is a personal attempt to give back to the community. 
+When I originally created the challenge I was working at [A Cloud Guru](https://acloudguru.com), a cloud education company, but this has always been a personal attempt to give back to the community. 
 
 ## Is there a deadline to complete the challenge?
-Code review and other personal feedback from Forrest will mostly end on July 31, 2020. After that the challenge will be deprecated, but you can still work on it if you like.
+Early versions of the challenge had a deadline to receive personal code review from Forrest. While that deadline has passed, you can always submit your projects in [the Discord server](https://discord.gg/2PTwAth) to get reviews from the community.
 
 ## Does completing the Cloud Resume Challenge guarantee I will get a job in the cloud?
 
-No. But I will get your name and resume in front of as many people as I can to help.
+No. But it has helped [a lot of folks](https://cloudresumechallenge.dev/halloffame) along that road.
 
-Now, fair warning: you will have to open a large number of browser tabs to figure out the challenge. It will take you quite a few long evenings at the kitchen table. You might reasonably conclude that none of it is worth the dubious reward of having a random industry professional share your resume with a few thousand people.
+Now, fair warning: you will have to open a large number of browser tabs to figure out the challenge. It will take you quite a few long evenings at the kitchen table. You might reasonably conclude that none of it is worth the dubious reward of having a side project on your resume.
 
 But if you give this project a try and realize that you hate it, or you're just not interested, you'll have learned a valuable lesson about whether or not you really want a career in the cloud -- because **these are the types of problems that real cloud engineers and developers really work on.**
 
 And I believe that if you can, in good faith, complete the Cloud Resume Challenge, **you will already have more useful skills than a lot of people who graduate from university computer science programs.** Specifically: you will understand something about full-stack software development, version control, infrastructure as code, automation, continuous integration and delivery, cloud services and "serverless", application security, and networking. And you'll have learned by doing, because I didn't give you enough instructions to figure any of this out without going down some late-night rabbit holes. Most importantly, you will have demonstrated the number-one skill in a cloud engineer's toolbox: the ability to learn fast and google well.
 
-Those are skills you can take to a job interview. And I'll do my best to help you get one.
+Those are skills you can take to a job interview.
 
 Good luck!
 
 ## Can I complete the challenge using [different technology X]?
+
 Yes! Feel free to use different cloud providers, DevOps tools, etc -- as long as you have met the end objective described in each step.
 
-For example, Quang Ngo shows how [he used GCP services](https://medium.com/@quangngotan95/the-cloud-resume-challenge-with-gcp-d331055b667c) to complete the challenge. Brian Adams [did the whole thing on Kubernetes](https://homelab.contrasting.org/technical/2020/06/26/cloud-resume-challenge.html), somehow.
+For example, Quang Ngo shows how [he used GCP services](https://medium.com/@quangngotan95/the-cloud-resume-challenge-with-gcp-d331055b667c) to complete the challenge. Gwyn Peña-Siguenza has [an Azure version](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-in-azure). [The Cloud Resume Challenge Book](https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book) includes tons more ideas for modifying and enhancing your project!
+
+## Can I work on the steps in a different order?
+
+Yep. As long as you are doing your own work, there's no wrong way to approach the challenge.
 
 ## Can I share my solutions online?
 
-You are encouraged to share your general observations and personal approach to solving the challenge when you write your wrap-up blog post. However, I ask that you please don't share your Python and Javascript code. Let's keep the challenge properly challenging for others!
-
-## Are there other resources I can use to get some professional experience on my resume?
-
-Check out Anthony James' [Kysen Journal](http://kysenjournal.com/) -- he is paying qualified applicants to build their resume with microprojects. Completing the Cloud Resume Challenge is one way to meet his training prerequisites.
+You are encouraged to share your general observations and personal approach to solving the challenge when you write your wrap-up blog post. However, I ask that you please don't share your Python and Javascript code in the blog. Let's keep the challenge properly challenging for others!
 
 ## What is the cloud, anyway?
 
-Hey, I wrote a [book](https://www.amazon.com/Read-Aloud-Cloud-Innocents-Inside/dp/1119677629/) about that!
+Hey, I wrote another [book](https://www.amazon.com/Read-Aloud-Cloud-Innocents-Inside/dp/1119677629/) about that!

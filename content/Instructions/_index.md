@@ -12,17 +12,17 @@ weight: 1
 
 <div class="info-msg">
   <i class="fa fa-info-circle"></i>
-  NOTE: Code review for this challenge ends July 31, after a full #100DaysOfCloud. After July 31, you are free to share your GitHub code publicly, or to keep working on this challenge on your own. <a href="https://discord.gg/2PTwAth">Join the Discord server</a> to keep updated on job postings and future challenges.
+  Preorder <a href="https://discord.gg/2PTwAth">the Cloud Resume Challenge book</a> now!
 </div>
 
 [Read a Spanish translation of this page by Jesus Rodriguez](/instructions_es)
 
 # Instructions
-Complete these steps so I can share your resume with as many people as possible. See [the FAQ](https://cloudresumechallenge.dev/faq) for more context on why I chose these specific steps.
+Here are the steps of the original Cloud Resume Challenge; they are free for anyone to use. See [the FAQ](https://cloudresumechallenge.dev/faq) for more context on why I chose these specific steps.
 
 ## 1. Certification
 
-Your resume needs to have the [AWS Cloud Practitioner certification](https://aws.amazon.com/certification/certified-cloud-practitioner/) on it. This is an introductory certification that orients you on the industry-leading AWS cloud -- if you have a more advanced AWS cert, that's fine but not expected. No cheating: include the validation code on the resume. You can sit this exam online for $100 USD. If that cost is a dealbreaker for you, let me know and I'll see if I can help. [A Cloud Guru offers exam prep resources](https://acloud.guru/learn/aws-certified-cloud-practitioner). 
+Your resume needs to have the [AWS Cloud Practitioner certification](https://aws.amazon.com/certification/certified-cloud-practitioner/) on it. This is an introductory certification that orients you on the industry-leading AWS cloud -- if you have a more advanced AWS cert, that's fine but not expected. No cheating: include the validation code on the resume. You can sit this exam online for $100 USD. [A Cloud Guru offers exam prep resources](https://acloud.guru/learn/aws-certified-cloud-practitioner). 
 
 ## 2. HTML
 
@@ -52,7 +52,6 @@ Do not communicate directly with DynamoDB from your Javascript code. Instead, yo
 ## 10. Python
 You will need to write a bit of code in the Lambda function; you could use more Javascript, but it would be better for our purposes to explore Python -- a common language used in back-end programs and scripts -- and its [boto3 library for AWS](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html). Here is a good, free [Python tutorial](https://www.learnpython.org/).
 
-
 ## 11. Tests
 You should also include some tests for your Python code. [Here are some resources](https://realpython.com/python-testing/) on writing good Python tests.
 
@@ -60,17 +59,15 @@ You should also include some tests for your Python code. [Here are some resource
 You should not be configuring your API resources -- the DynamoDB table, the API Gateway, the Lambda function -- manually, by clicking around in the AWS console. Instead, define them in an [AWS Serverless Application Model (SAM) template](https://aws.amazon.com/serverless/sam/) and deploy them using the AWS SAM CLI. This is called "[infrastructure as code](https://www.hashicorp.com/resources/what-is-infrastructure-as-code/)" or IaC. It saves you time in the long run.
 
 ## 13. Source Control
-You do not want to be updating either your back-end API or your front-end website by making calls from your laptop, though. You want them to update automatically whenever you make a change to the code. (This is called [continuous integration and deployment, or CI/CD](https://help.github.com/en/actions/building-and-testing-code-with-continuous-integration/about-continuous-integration).) Create a private [GitHub repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-new-repository) for your backend code. 
+You do not want to be updating either your back-end API or your front-end website by making calls from your laptop, though. You want them to update automatically whenever you make a change to the code. (This is called [continuous integration and deployment, or CI/CD](https://help.github.com/en/actions/building-and-testing-code-with-continuous-integration/about-continuous-integration).) Create a [GitHub repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-new-repository) for your backend code. 
 
 ## 14. CI/CD (Back end)
 Set up [GitHub Actions](https://help.github.com/en/actions/getting-started-with-github-actions/about-github-actions) such that when you push an update to your Serverless Application Model template or Python code, your Python tests get run. If the tests pass, the SAM application should get packaged and deployed to AWS.
 
 ## 15. CI/CD (Front end)
-Create a second private GitHub repository for your website code. Create GitHub Actions such that when you push new website code, the S3 bucket automatically gets updated. (You may need to [invalidate your CloudFront cache](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Invalidation.html) in the code as well.) *Important note: DO NOT commit AWS credentials to source control! Bad hats will find them and use them against you!*
+Create a second GitHub repository for your website code. Create GitHub Actions such that when you push new website code, the S3 bucket automatically gets updated. (You may need to [invalidate your CloudFront cache](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Invalidation.html) in the code as well.) *Important note: DO NOT commit AWS credentials to source control! Bad hats will find them and use them against you!*
 
 ## 16. Blog post
 Finally, in the text of your resume, you should link a short blog post describing some things you learned while working on this project. [Dev.to](https://dev.to) is a great place to publish if you don't have your own blog.
 
-And that's it. When you have done all this, add my GitHub username [@forrestbrazeal](https://github.com/forrestbrazeal) as a collaborator on your repositories. If you need a job in the cloud, and you have met the conditions listed above, I will give you a personalized code review, then make as much noise about you as I can to anybody who will listen (including sharing your awesome blog post!).
-
-For more background, you can read the [original Cloud Resume Challenge blog post](https://forrestbrazeal.com/2020/04/23/the-cloud-resume-challenge/).
+And that's the gist of it! For strategies, tools, and further challenges to help you get hired in cloud, check out <a href="https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book">the Cloud Resume Challenge book</a>.
