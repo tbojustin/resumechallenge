@@ -13,7 +13,7 @@ title = "The cloud resume challenge"
 
 # A proven way to advance your cloud career.
 
-> **"Doing the Cloud Resume Challenge was one of the best decisions I've ever made."**<br>- Stephanie K, from bank clerk to Associate Cloud Engineer in 3 months
+> "**Doing the Cloud Resume Challenge was one of the best decisions I've ever made.**"<br>- Stephanie K, from bank clerk to Associate Cloud Engineer in 3 months
 
 So, you want a high-paying cloud job? Time to build some experience. 
 
