@@ -11,7 +11,7 @@ weight: 1
 
 <div class="info-msg">
   <i class="fa fa-info-circle"></i>
-  Preorder <a href="https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book">the Cloud Resume Challenge book</a> now!
+   Preorder <a href="https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book">the Cloud Resume Challenge book</a> now!
 </div>
 
 # Hall of Fame
@@ -71,10 +71,6 @@ For more information on Darius' journey, check out his [resume](https://lnkd.in/
   {{< column "mt-2 mb-2" >}}
   ### Stacy: from IT Service Desk Manager to Cloud Operations Engineer 
 
-How long it took Stacy to complete the Cloud Resume Challenge: 50 or so hours, spread over 6 weeks	
-
-How long it took Stacy to get a cloud job after completing the challenge: 1 month
-
 "I'd been working in IT for several years with a Windows administration focus, but I wanted to specialize in cloud for career growth.	
 
 "When I found the Cloud Resume Challenge, I thought it looked like a great way to learn cloud tech by getting hands-on experience and completing a project that could be added to a resume or used as a talking point in interviews.
@@ -83,9 +79,7 @@ How long it took Stacy to get a cloud job after completing the challenge: 1 mont
 
 "My advice for other upskillers: Don't give up! The jobs are out there, but you need to find the right environment for growth. A lot of cloud jobs are geared towards senior-level people with years of experience, but there are companies out there that are willing to grow their own. 
 
-"Doing the Cloud Resume Challenge will set you apart and show that you have the curiosity, resilience, and motivation to make a career in cloud. 
-
-"Also, while you are interviewing, start learning Terraform and Linux administration. Those two skills will help you immensely both during the interview process and on the job."
+"Doing the Cloud Resume Challenge will set you apart and show that you have the curiosity, resilience, and motivation to make a career in cloud."
 
 
 Read more in my [blog](https://dev.to/stacystipes/the-cloud-resume-challenge-how-i-fell-in-love-with-sam-2ik3) about the challenge, and check out my [resume](https://stacystipes.com/).

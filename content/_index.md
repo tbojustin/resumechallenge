@@ -13,20 +13,18 @@ title = "The cloud resume challenge"
 
 # A cloud project to advance your career.
 
-Hi! My name is [Forrest Brazeal](https://forrestbrazeal.com).
+"Doing the Cloud Resume Challenge was one of the best decisions I've ever made."
 
-I want to help you get your first job in the cloud, so I'm [volunteering my network](https://cloudirregular.substack.com/p/the-cloud-resume-challenge).
+- Stephanie K, from bank clerk to Associate Cloud Engineer in 3 months
 
-But I can only share a certain type of resume.
-
-{{< button "instructions/" "Take the challenge" >}} {{< button "https://discord.gg/2PTwAth" "Join the Discord server" >}}
+{{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book" "Get the book" >}} {{< button "https://discord.gg/2PTwAth" "Join the Discord server" >}}
 
 {{< /column >}}
 {{< column >}}
 <br>
 <br>
 
-![diy](/images/resume.png)
+![diy](/images/cloud-resume-challenge-book.png)
 
 {{< /column >}}
 {{< /block >}}

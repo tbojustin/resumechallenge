@@ -9,7 +9,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 #  menu items
 [[menu.main]]
-    name = "Instructions"
+    name = "The Challenge"
     weight = 1
     url = "instructions/"
 [[menu.main]]
@@ -20,6 +20,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     name = "Hall of Fame"
     weight = 3
     url = "halloffame/"
+[[menu.main]]
+    name = "Get The Guide"
+    weight = 3
+    url = "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book"
 
 [markup]
   [markup.goldmark]
