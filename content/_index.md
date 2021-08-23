@@ -19,20 +19,6 @@ title = "The cloud resume challenge"
 
 So, you want a six-figure cloud engineering job? Get in line ... or skip the line.
 
-Since April 2020, the Cloud Resume Challenge has helped hundreds of people
-
-• skill up on cloud,
-
-• improve their career prospects,
-
-• and even land cloud jobs from totally non-tech fields like plumbing and HR.
-
-Now, I've packed their top tips, strategies, and resources into one book, so you too can build skills, make connections, and get a cloud job FAST.
-
-"If you want to get your first job in the cloud, there is NO BETTER OFFER right now than the Cloud Resume Challenge."
-
-- Shawn "swyx" Wang, author of "Cracking the Coding Career"
-
 {{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book" "Get the book" >}} {{< button "https://discord.gg/2PTwAth" "Join the Discord server" >}}
 
 {{< /column >}}
