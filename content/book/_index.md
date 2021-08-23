@@ -14,11 +14,9 @@ weight: 1
 
 # A proven way to advance your cloud career.
 
-> **"This challenge was a HUGE hit with employers."**
+> **"This challenge was a HUGE hit with employers."** <br> -*Tejas B, from help desk to DevOps engineer*
 
-> -*Tejas B, from help desk to DevOps engineer*
-
-So, you want a six-figure cloud engineering job? Get in line ... or skip the line.
+So, you want a high-paying cloud engineering job? Get in line ... or skip the line.
 
 Since April 2020, the Cloud Resume Challenge has helped hundreds of people
 
@@ -30,9 +28,7 @@ Since April 2020, the Cloud Resume Challenge has helped hundreds of people
 
 Now, I've packed their top tips, strategies, and resources into one book, so you too can build skills, make connections, and get a cloud job FAST.
 
-> **"If you want to get your first job in the cloud, there is NO BETTER OFFER right now than Forrest Brazeal's Cloud Resume Challenge."**
-
-> -[Shawn "swyx" Wang, author of "Cracking the Coding Career"](https://twitter.com/swyx/status/1266355081995149313)
+> **"If you want to get your first job in the cloud, there is NO BETTER OFFER right now than Forrest Brazeal's Cloud Resume Challenge."** <br> -[Shawn "swyx" Wang, author of "Cracking the Coding Career"](https://twitter.com/swyx/status/1266355081995149313)
 
 {{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book" "Get the book" >}}
 
