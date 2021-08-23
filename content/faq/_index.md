@@ -31,6 +31,12 @@ When I originally created the challenge I was working at [A Cloud Guru](https://
 ## Is there a deadline to complete the challenge?
 Early versions of the challenge had a deadline to receive personal code review from Forrest. While that deadline has passed, you can always submit your projects in [the Discord server](https://discord.gg/2PTwAth) to get reviews from the community.
 
+## Can I do the challenge without buying the book?
+
+The [core steps of the Cloud Resume Challenge](https://cloudresumechallenge.dev/instructions) are always free to access, and you are welcome to try them on your own.
+
+The [book](https://cloudresumechallenge.dev/book) is full of tools, tips, and resources to help you complete the challenge more quickly and get hired more easily. It also includes several bonus projects to further build your resume.
+
 ## Does completing the Cloud Resume Challenge guarantee I will get a job in the cloud?
 
 No. But it has helped [a lot of folks](https://cloudresumechallenge.dev/halloffame) along that road.

@@ -21,7 +21,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     weight = 3
     url = "halloffame/"
 [[menu.main]]
-    name = "Get The Guide"
+    name = "Get The Book"
     weight = 3
     url = "book/"
 
