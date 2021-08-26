@@ -10,7 +10,7 @@ weight: 1
 <br>
 
 <div class="info-msg">
-   Get <a href="https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book">the Cloud Resume Challenge book</a> now!
+   Get <a href="https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/website-offer">the Cloud Resume Challenge book for 10% off</a> right now!
 </div>
 
 # Hall of Fame
