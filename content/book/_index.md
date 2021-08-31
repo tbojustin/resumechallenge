@@ -28,14 +28,14 @@ Now, I've packed the top challenge tips, strategies, and resources into one book
 
 > **"If you want to get your first job in the cloud, there is NO BETTER OFFER right now than Forrest Brazeal's Cloud Resume Challenge."** <br> -[Shawn "swyx" Wang, author of "Cracking the Coding Career"](https://twitter.com/swyx/status/1266355081995149313)
 
-{{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book" "Get the book" >}}
+{{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/web" "Get the book" >}}
 
 {{< /column >}}
 {{< column >}}
 <br>
 <br>
 
-[![diy](/images/book.png)](https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book)
+[![diy](/images/book.png)](https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/web)
 
 {{< /column >}}
 {{< /block >}}
@@ -60,4 +60,4 @@ Plus, you get free access to my regular "Best Jobs in Cloud" newsletter, featuri
 
 > **"Everyone in the interview loop at Amazon seemed impressed with the range of services used within this one project."** <br> -*Jerry M, from respiratory therapist to solutions architect at AWS*
 
-{{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book" "Get started now" >}}
+{{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/web" "Get started now" >}}
