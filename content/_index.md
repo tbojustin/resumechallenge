@@ -24,7 +24,7 @@ Try the popular 16-step project that takes you from certified to hired in cloud 
 <br>
 <br>
 
-[![diy](/images/book.png)](https://cloudresumechallenge.dev/book/web)
+[![diy](/images/book.png)](https://cloudresumechallenge.dev/book)
 
 {{< /column >}}
 {{< /block >}}
