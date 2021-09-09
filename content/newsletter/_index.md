@@ -22,7 +22,8 @@ In each issue, I curate awesome cloud job opportunities from around my network, 
 {{< column >}}
 <br>
 <br>
-
+<br>
+<br>
 [![diy](/images/newsletter.png)](https://cloudirregular.substack.com/)
 
 {{< /column >}}
