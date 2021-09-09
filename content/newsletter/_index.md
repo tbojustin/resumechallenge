@@ -2,6 +2,10 @@
 title = "The cloud resume challenge"
 +++
 
+# Get the inside track on the best jobs in cloud.
+
+> "**I’ve gotten a huge uptick in outreach and most importantly, quality candidates from this newsletter.**"<br>- Robert B, cloud hiring manager at Verizon
+
 {{< block "grid-2 mt-2" >}}
 {{< column >}}
 
@@ -10,10 +14,6 @@ title = "The cloud resume challenge"
 <br>
 <br>
 <br>
-
-# Get the inside track on the best jobs in cloud.
-
-> "**I’ve gotten a huge uptick in outreach and most importantly, quality candidates from this newsletter.**"<br>- Robert B, cloud hiring manager at Verizon
 
 “The Best Jobs in Cloud” is a biweekly newsletter that comes FREE with your purchase of [the Cloud Resume Challenge Book](https://cloudresumechallenge.dev/book).
 
