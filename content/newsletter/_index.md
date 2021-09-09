@@ -1,7 +1,6 @@
----
-title: "Book"
-weight: 1
----
++++
+title = "The cloud resume challenge"
++++
 
 {{< block "grid-2 mt-2" >}}
 {{< column >}}
@@ -12,52 +11,42 @@ weight: 1
 <br>
 <br>
 
-# A proven way to advance your cloud career.
+# Get the inside track on the best jobs in cloud.
 
-> **"This challenge was a HUGE hit with prospective employers."** <br> -*Tejas B, from help desk to DevOps engineer*
+> "**I’ve gotten a huge uptick in outreach and most importantly, quality candidates from this newsletter.**"<br>- Robert B, cloud hiring manager at Verizon
 
-Since April 2020, the Cloud Resume Challenge has helped hundreds of people
+“The Best Jobs in Cloud” is a biweekly newsletter that comes FREE with your purchase of [the Cloud Resume Challenge Book](https://cloudresumechallenge.dev/book).
 
-• skill up on cloud,
-
-• improve their career prospects,
-
-• and even land cloud jobs from totally non-tech fields like plumbing and HR.
-
-Now, I've packed the top challenge tips, strategies, and resources into one book, so you too can build skills, make connections, and get a cloud job FAST.
-
-> **"If you want to get your first job in the cloud, there is NO BETTER OFFER right now than Forrest Brazeal's Cloud Resume Challenge."** <br> -[Shawn "swyx" Wang, author of "Cracking the Coding Career"](https://twitter.com/swyx/status/1266355081995149313)
-
-{{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/web" "Get the book" >}}
-
+In each issue, I curate awesome cloud job opportunities from around my network, including an inside referral for each job so you can skip the application line.
 {{< /column >}}
 {{< column >}}
 <br>
 <br>
 
-[![diy](/images/book.png)](https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/web)
+[![diy](/images/newsletter.png)](https://cloudirregular.substack.com/)
 
 {{< /column >}}
 {{< /block >}}
 
-## What's Inside
+## What do I mean by “the best”?
 
-I used feedback from the 1500+ member Cloud Resume Challenge Discord community to help you create **the ultimate cloud resume-building project**.
+* In most cases, I include **a direct contact link to the hiring manager** or someone else inside the company; no more "spray and pray" of cold applications. My referrals know and love the Cloud Resume Challenge; they'll be expecting you.
 
-• **130+ pages** of tools, tips, and bonus projects
+* I bias for **remote jobs**; even better if they are true, global “work from anywhere” remote jobs without a geographical restriction.
 
-• **The secret "17th step"** that makes your project stand out above the crowd
+* I bias for jobs that **include a salary range**.
 
-• How to write a challenge blog post that will get **the right kind of attention**
+* I bias for jobs where **I personally know people inside the company** and can vouch for the health of the culture and the interesting-ness of the work.
 
-• **Four all-new bonus projects** covering AWS, Kubernetes, and more
+* I sort the list according to required experience, and I try to make sure I have a healthy balance of **junior, mid-level, and senior jobs**.
 
-• **Proven challenge-to-job strategies** for both career-changers and upskillers
+## Let me be your talent agent.
 
-• **Case studies from challenge champions**: how they got hired, what they learned
+I've spent years building thousands of connections in the cloud community for one reason: so I can help as many people as possible find awesome jobs.
 
-Plus, you get free access to my regular "Best Jobs in Cloud" newsletter, featuring **curated job opportunities** for both juniors and seniors.
+Whether you're actively looking for a new job or not, you should be reading this newsletter to get an insider's guide to the best job opportunities in cloud.
 
-> **"Everyone in the interview loop at Amazon seemed impressed with the range of services used within this one project."** <br> -*Jerry M, from respiratory therapist to solutions architect at AWS*
+You can sign up to the newsletter alone for $5/month - but again, it comes free with your [book purchase](https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/web)!
 
-{{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/web" "Get started now" >}}
+{{< button "https://cloudirregular.substack.com/" "Sign up now ($5/month)" >}}{{< button "https://forms.gle/WWeiMmpaXzfxr3G3A" "Submit a job listing (free)" >}}
+
