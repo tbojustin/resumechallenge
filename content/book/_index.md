@@ -56,7 +56,7 @@ I used feedback from the 1500+ member Cloud Resume Challenge Discord community t
 
 • **Case studies from challenge champions**: how they got hired, what they learned
 
-Plus, you get free access to my regular "Best Jobs in Cloud" newsletter, featuring **curated job opportunities** for both juniors and seniors.
+Plus, you get free access to my regular ["Best Jobs in Cloud" newsletter](https://cloudresumechallenge.dev/newsletter), featuring **curated job opportunities** for both juniors and seniors.
 
 > **"Everyone in the interview loop at Amazon seemed impressed with the range of services used within this one project."** <br> -*Jerry M, from respiratory therapist to solutions architect at AWS*
 
