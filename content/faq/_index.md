@@ -55,7 +55,13 @@ Good luck!
 
 Yes! Feel free to use different cloud providers, DevOps tools, etc -- as long as you have met the end objective described in each step.
 
-For example, Quang Ngo shows how [he used GCP services](https://medium.com/@quangngotan95/the-cloud-resume-challenge-with-gcp-d331055b667c) to complete the challenge. Gwyn Peña-Siguenza has [an Azure version](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-in-azure). [The Cloud Resume Challenge Book](https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book) includes tons more ideas for modifying and enhancing your project!
+### Can I complete the Cloud Resume Challenge on Azure?
+One of the most common questions I get is "can I do the Cloud Resume Challenge on Microsoft Azure services?" The answer has always been YES, but until recently there wasn't a great guide to follow. Happily, A Cloud Guru has blessed us with an all-Azure version of the challenge presented by Microsoft cloud advocate Gwyneth Peña-Siguenza. You can run through her [text prompt](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-in-azure) or watch her [thorough video on the subject](https://acloud.guru/series/acg-projects/view/403) (requires free account).
+
+### Can I complete the Cloud Resume Challenge on Google Cloud (GCP)?
+Yeah, one of the other most common questions I get is "can I do the Cloud Resume Challenge on Google Cloud services?" Good news, A Cloud Guru has stepped into the breach again, this time with an [all-GCP spin on the challenge](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-on-gcp) presented by Mattias Andersson. Quang Ngo has also shown how [he used GCP services](https://medium.com/@quangngotan95/the-cloud-resume-challenge-with-gcp-d331055b667c) to complete the challenge. (Sorry, Oracle Cloud - I've no bias against making an OCI version, but not one single person has asked yet.) 
+
+[The Cloud Resume Challenge Book](https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book) includes tons more ideas for modifying and enhancing your project!
 
 ## Can I work on the steps in a different order?
 
