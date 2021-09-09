@@ -21,7 +21,7 @@ title = "The cloud resume challenge"
 
 In each issue, I curate awesome cloud job opportunities from around my network, including an inside referral for each job so you can skip the application line.
 
-{{< button "https://cloudirregular.substack.com/" "I just want the newsletter" >}}
+{{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/web" "Get the book" >}}{{< button "https://cloudirregular.substack.com/" "I just want the newsletter" >}}
 
 {{< /column >}}
 {{< column >}}
