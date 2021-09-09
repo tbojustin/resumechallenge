@@ -31,7 +31,7 @@ In each issue, I curate awesome cloud job opportunities from around my network, 
 {{< /column >}}
 {{< /block >}}
 
-## What do I mean by “the best”?
+## What do I mean by “the best jobs”?
 
 • In most cases, I include **a direct contact link to the hiring manager** or someone else inside the company; no more "spray and pray" of cold applications. My referrals know and love the Cloud Resume Challenge; they'll be expecting you.
 
