@@ -32,15 +32,15 @@ In each issue, I curate awesome cloud job opportunities from around my network, 
 
 ## What do I mean by “the best”?
 
-* In most cases, I include **a direct contact link to the hiring manager** or someone else inside the company; no more "spray and pray" of cold applications. My referrals know and love the Cloud Resume Challenge; they'll be expecting you.
+• In most cases, I include **a direct contact link to the hiring manager** or someone else inside the company; no more "spray and pray" of cold applications. My referrals know and love the Cloud Resume Challenge; they'll be expecting you.
 
-* I bias for **remote jobs**; even better if they are true, global “work from anywhere” remote jobs without a geographical restriction.
+• I bias for **remote jobs**; even better if they are true, global “work from anywhere” remote jobs without a geographical restriction.
 
-* I bias for jobs that **include a salary range**.
+• I bias for jobs that **include a salary range**.
 
-* I bias for jobs where **I personally know people inside the company** and can vouch for the health of the culture and the interesting-ness of the work.
+• I bias for jobs where **I personally know people inside the company** and can vouch for the health of the culture and the interesting-ness of the work.
 
-* I sort the list according to required experience, and I try to make sure I have a healthy balance of **junior, mid-level, and senior jobs**.
+• I sort the list according to required experience, and I try to make sure I have a healthy balance of **junior, mid-level, and senior jobs**.
 
 ## Let me be your talent agent.
 
