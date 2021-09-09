@@ -18,12 +18,16 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     url = "faq/"
 [[menu.main]]
     name = "Hall of Fame"
-    weight = 3
+    weight = 5
     url = "halloffame/"
 [[menu.main]]
     name = "Get The Book"
     weight = 3
     url = "book/"
+[[menu.main]]
+    name = "Jobs in Cloud"
+    weight = 4
+    url = "newsletter/"
 
 [markup]
   [markup.goldmark]

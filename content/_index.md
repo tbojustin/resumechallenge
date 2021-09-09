@@ -11,20 +11,42 @@ title = "The cloud resume challenge"
 <br>
 <br>
 
-# A proven way to advance your cloud career.
+# Get the inside track on the best jobs in cloud.
 
-> "**The Cloud Resume Challenge was one of the best decisions I've ever made.**"<br>- Stephanie K, from bank clerk to Associate Cloud Engineer in 3 months
+> "**I’ve gotten a huge uptick in outreach and most importantly, quality candidates from this newsletter.**"<br>- Robert B, cloud hiring manager at Verizon
 
-Try the popular 16-step project that takes you from certified to hired in cloud - fast.
+“The Best Jobs in Cloud” is a biweekly newsletter that comes FREE with your purchase of [the Cloud Resume Challenge Book](https://cloudresumechallenge.dev/book).
 
-{{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/web" "Get the ebook" >}}{{< button "https://discord.gg/2PTwAth" "Join the Discord server" >}}
-
+In each issue, I curate awesome cloud job opportunities from around my network, including an inside referral for each job so you can skip the application line.
 {{< /column >}}
 {{< column >}}
 <br>
 <br>
 
-[![diy](/images/book.png)](https://cloudresumechallenge.dev/book)
+[![diy](/images/newsletter.png)](https://cloudirregular.substack.com/)
 
 {{< /column >}}
 {{< /block >}}
+
+## What do I mean by “the best”?
+
+* In most cases, I include **a direct contact link to the hiring manager** or someone else inside the company; no more "spray and pray" of cold applications. My referrals know and love the Cloud Resume Challenge; they'll be expecting you.
+
+* I bias for **remote jobs**; even better if they are true, global “work from anywhere” remote jobs without a geographical restriction.
+
+* I bias for jobs that **include a salary range**.
+
+* I bias for jobs where **I personally know people inside the company** and can vouch for the health of the culture and the interesting-ness of the work.
+
+* I sort the list according to required experience, and I try to make sure I have a healthy balance of **junior, mid-level, and senior jobs**.
+
+## Let me be your talent agent.
+
+I've spent years building thousands of connections in the cloud community for one reason: so I can help as many people as possible find awesome jobs.
+
+Whether you're actively looking for a new job or not, you should be reading this newsletter to get an insider's guide to the best job opportunities in cloud.
+
+You can sign up to the newsletter alone for $5/month - but again, it comes free with your [book purchase](https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/web)!
+
+{{< button "https://cloudirregular.substack.com/" "Sign up now ($5/month)" >}}{{< button "https://forms.gle/WWeiMmpaXzfxr3G3A" "Submit a job listing (free)" >}}
+
