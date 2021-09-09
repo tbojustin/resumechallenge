@@ -18,6 +18,9 @@ title = "The cloud resume challenge"
 “The Best Jobs in Cloud” is a biweekly newsletter that comes FREE with your purchase of [the Cloud Resume Challenge Book](https://cloudresumechallenge.dev/book).
 
 In each issue, I curate awesome cloud job opportunities from around my network, including an inside referral for each job so you can skip the application line.
+
+{{< button "https://cloudirregular.substack.com/" "I just want the newsletter" >}}
+
 {{< /column >}}
 {{< column >}}
 <br>
