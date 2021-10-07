@@ -51,5 +51,5 @@ Whether you're actively looking for a new job or not, you should be reading this
 
 You can sign up to the newsletter alone for $5/month - but again, it comes free with your [book purchase](https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/web)!
 
-{{< button "https://cloudirregular.substack.com/" "Sign up now ($5/month)" >}}{{< button "https://forms.gle/WWeiMmpaXzfxr3G3A" "Submit a job listing (free)" >}}
+{{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/web" "Get the book" >}}{{< button "https://forms.gle/WWeiMmpaXzfxr3G3A" "Submit a job listing (free)" >}}
 
