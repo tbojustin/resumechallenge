@@ -10,6 +10,10 @@ weight: 1
 <br>
 <br>
 
+{{< tip >}}
+Get [the Cloud Resume Challenge book for 10% off](https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/website-offer) right now!
+{{< /tip >}}
+
 <div class="info-msg">
    Get <a href="https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/website-offer">the Cloud Resume Challenge book for 10% off</a> right now!
 </div>
