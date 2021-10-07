@@ -18,8 +18,6 @@ Get [the Cloud Resume Challenge book for 10% off](https://forrestbrazeal.gumroad
    Get <a href="https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/website-offer">the Cloud Resume Challenge book for 10% off</a> right now!
 </div>
 
-[Read a Spanish translation of this page by Jesus Rodriguez](/faq_es)
-
 ## Who can complete the Cloud Resume Challenge?
 
 Short answer: anybody! It's a fun way to level up your cloud skills, even if you're already a professional.

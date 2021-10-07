@@ -14,8 +14,6 @@ weight: 1
    Get <a href="https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/website-offer">the Cloud Resume Challenge book for 10% off</a> right now!
 </div>
 
-[Read a Spanish translation of this page by Jesus Rodriguez](/instructions_es)
-
 # Instructions
 Here are the steps of the original Cloud Resume Challenge; they are free for anyone to use. See [the FAQ](https://cloudresumechallenge.dev/faq) for more context on why I chose these specific steps.
 
