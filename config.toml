@@ -2,7 +2,7 @@ baseURL = "https://cloudresumechallenge.dev/"
 languageCode = "en-us"
 title = "Cloud Resume Challenge"
 enableRobotsTXT = true
-theme = "compose"
+theme = ["github.com/onweru/compose"]
 enableGitInfo = true
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
