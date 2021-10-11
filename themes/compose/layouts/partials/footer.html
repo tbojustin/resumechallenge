@@ -1,7 +1,8 @@
 {{ if .Site.Params.enableCopyright | default true }}
-<footer class="mt-2 pt-2 pb-2">
+<footer class="pt-2 pb-2">
   <div class="wrap">
-    <p>&copy; {{ now.Year }} {{ .Site.Params.author }}</p>
+    {{- $author := site.Params.author }}
+    <a href="#pagetop" id="toTop" title={{ T "to_top" }}></a>
   </div>
 </footer>
 {{ end }}

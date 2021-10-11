@@ -1,22 +1,36 @@
 # Compose
 
-Compose is a [Hugo](https://gohugo.io/) theme for documentation websites, inspired by [forestry.io](forestry.io)'s docs page. The theme provides a simple navigation & structure.
+Compose is a [Hugo](https://gohugo.io/) theme for documentation websites, inspired by [forestry.io](https://forestry.io/docs/welcome/)'s docs page. The theme provides a simple navigation & structure.
 
-![Hugo Compose Theme](https://github.com/onweru/compose/blob/master/images/screenshot.png)
+![Hugo Compose Theme](https://github.com/onweru/compose/blob/master/images/tn.png)
 
-## Installation 
+## Features
 
-Install a recent release of the Hugo "extended" version; ideally versions `>= 0.61.0`. If you install from [hugo releases page](https://github.com/gohugoio/hugo/releases),  download the `_extended` version, which supports sass.
+1. Documentation
+2. Gallery Support
+3. Native lazy loading of images
+4. Live search
+5. Flowcharts, Piecharts, doughnut & bar charts support
+6. Searchable & Sortable tables
+7. Syntax highlighting
+8. Mermaid Support
 
-## Example 
+## Documentation
 
-You can find an example project that uses Compose in the [Compose Userguide](https://github.com/onweru/compose-userguide). 
+- [Install compose theme](https://docs.neuralvibes.com/docs/compose/install-theme/)
+- [Use forestry CMS](https://docs.neuralvibes.com/docs/compose/use-forestry-cms/)
+- [Customize your site](https://docs.neuralvibes.com/docs/compose/customize/)
+- [Configure search](https://docs.neuralvibes.com/docs/compose/search/)
+- [Shortcodes](https://docs.neuralvibes.com/docs/compose/shortcodes/)
+- [Mermaid](https://docs.neuralvibes.com/docs/compose/mermaid/)
 
-The Compose Example Project is hosted at [https://compose-docs.netlify.com](https://compose-docs.netlify.com). This project also stands as the theme's user guide.
+## ExampleSite
 
-> This guide covers the necessary bits. As the project evolves, the userguide will get more comprehensive
+The [exampleSite](https://github.com/onweru/compose/tree/master/exampleSite) serves as this theme's [user guide](https://docs.neuralvibes.com/docs/compose/getting-started/) .
 
-You can use Hugo to generate and serve a local copy of the guide (also useful for testing local theme changes), making sure you have installed all the prerequisites listed above:
+This guide covers the necessary bits. As the project evolves, the user-guide will get more comprehensive
+
+You can use Hugo to generate and serve a local copy of the guide (also useful for testing local theme changes).
 
 ```
 git clone --recurse-submodules --depth 1 https://github.com/onweru/compose.git
@@ -24,13 +38,12 @@ cd compose/exampleSite/
 hugo server --themesDir ../..
 ```
 
-Note that you need the `themesDir` flag when running Hugo because the site files are inside the theme repo.
+### Also built by Weru
 
-## From the same creator
-
-1. [Swift Theme](https://github.com/onweru/hugo-swift-theme)
+1. [Clarity Theme](https://github.com/chipzoller/hugo-clarity)
 2. [Newsroom Theme](https://github.com/onweru/newsroom)
+3. [Swift Theme](https://github.com/onweru/hugo-swift-theme)
 
 ## License
 
-This theme is available under the [MIT license](https://github.com/onweru/compose/blob/master/LICENSE.md).
+This theme is available under the [MIT license](https://github.com/onweru/compose/blob/master/LICENSE).

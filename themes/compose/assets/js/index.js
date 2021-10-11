@@ -1,106 +1,37 @@
-function isObj(obj) {
-  return (obj && typeof obj === 'object' && obj !== null) ? true : false;
-}
+(function calcNavHeight(){
+  const nav = elem('.nav_header');
+  const navHeight = nav.offsetHeight + 25;
+  return navHeight;
+})();
 
-function createEl(element = 'div') {
-  return document.createElement(element);
-}
+function toggleMenu(event) {
+  const target = event.target;
+  const isToggleControl = target.matches(`.${toggleId}`);
+  const isWithToggleControl = target.closest(`.${toggleId}`);
+  const showInstances = elems(`.${showId}`) ? Array.from(elems(`.${showId}`)) : [];
+  const menuInstance = target.closest(`.${menu}`);
 
-function emptyEl(el) {
-  while(el.firstChild)
-  el.removeChild(el.firstChild);
-}
-
-function elem(selector, parent = document){
-  let elem = isObj(parent) ? parent.querySelector(selector) : false;
-  return elem ? elem : false;
-}
-
-function elems(selector, parent = document) {
-  let elems = isObj(parent) ?parent.querySelectorAll(selector) : [];
-  return elems.length ? elems : false;
-}
-
-function pushClass(el, targetClass) {
-  if (isObj(el) && targetClass) {
-    let elClass = el.classList;
-    elClass.contains(targetClass) ? false : elClass.add(targetClass);
+  function showOff(target, self = false) {
+    showInstances.forEach(function(showInstance){
+      if(!self) {
+        deleteClass(showInstance, showId);
+      }
+      if(showInstance !== target.closest(`.${menu}`)) {
+        deleteClass(showInstance, showId);
+      }
+    });
   }
-}
 
-function deleteClass(el, targetClass) {
-  if (isObj(el) && targetClass) {
-    let elClass = el.classList;
-    elClass.contains(targetClass) ? elClass.remove(targetClass) : false;
-  }
-}
-
-function modifyClass(el, targetClass) {
-  if (isObj(el) && targetClass) {
-    const elClass = el.classList;
-    elClass.contains(targetClass) ? elClass.remove(targetClass) : elClass.add(targetClass);
-  }
-}
-
-function containsClass(el, targetClass) {
-  if (isObj(el) && targetClass && el !== document ) {
-    return el.classList.contains(targetClass) ? true : false;
-  }
-}
-
-function isChild(node, parentClass) {
-  let objectsAreValid = isObj(node) && parentClass && typeof parentClass == 'string';
-  return (objectsAreValid && node.closest(parentClass)) ? true : false;
-}
-
-function elemAttribute(elem, attr, value = null) {
-  if (value) {
-    elem.setAttribute(attr, value);
+  if(isToggleControl || isWithToggleControl) {
+    const menu = isWithToggleControl ? isWithToggleControl.parentNode.parentNode : target.parentNode.parentNode;
+    event.preventDefault();
+    modifyClass(menu, showId);
   } else {
-    value = elem.getAttribute(attr);
-    return value ? value : false;
-  }
-}
-
-function deleteChars(str, subs) {
-  let newStr = str;
-  if (Array.isArray(subs)) {
-    for (let i = 0; i < subs.length; i++) {
-      newStr = newStr.replace(subs[i], '');
+    if(!menuInstance) {
+      showOff(target);
+    } else {
+      showOff(target, true);
     }
-  } else {
-    newStr = newStr.replace(subs, '');
-  }
-  return newStr;
-}
-
-function isBlank(str) {
-  return (!str || str.trim().length === 0);
-}
-
-function isMatch(element, selectors) {
-  if(isObj(element)) {
-    if(selectors.isArray) {
-      let matching = selectors.map(function(selector){
-        return element.matches(selector)
-      })
-      return matching.includes(true);
-    }
-    return element.matches(selectors)
-  }
-}
-
-function closestInt(goal, collection) {
-  const closest = collection.reduce(function(prev, curr) {
-    return (Math.abs(curr - goal) < Math.abs(prev - goal) ? curr : prev);
-  });
-  return closest
-}
-
-function hasClasses(el) {
-  if(isObj(el)) {
-    const classes = el.classList;
-    return classes.length
   }
 }
 
@@ -110,14 +41,28 @@ function hasClasses(el) {
     codeBlocks.forEach(function(codeBlock){
       if(!hasClasses(codeBlock)) {
         codeBlock.children.length ? false : pushClass(codeBlock, 'noClass');
-      } 
+      }
     });
   }
 })();
 
-function activeHeading(position, listLinks) {
-  let active = 'active';
+function featureHeading(){
+  // show active heading at top.
+  const linkClass = "section_link";
+  const titleClass = "section_title";
+  const parent = elem(".aside");
+  if(parent) {
+    let activeHeading = elem(`.${linkClass}.${active}`);
+    activeHeading = activeHeading ? activeHeading : elem(`.${titleClass}.${active}`);
+    parent.scroll({
+      top: activeHeading.offsetTop,
+      left: 0,
+      // behavior: 'smooth'
+    });
+  }
+}
 
+function activeHeading(position, listLinks) {
   let linksToModify = Object.create(null);
   linksToModify.active = listLinks.filter(function(link) {
     return containsClass(link, active);
@@ -135,11 +80,11 @@ function activeHeading(position, listLinks) {
   }
 };
 
+setTimeout(() => {
+  featureHeading();
+}, 50);
+
 function loadActions() {
-
-  const parentURL = '{{ absURL "" }}';
-  const doc = document.documentElement;
-
   (function updateDate() {
     const date = new Date();
     const year = date.getFullYear();
@@ -157,10 +102,10 @@ function loadActions() {
         pushClass(toc, 'toc');
         if(toc.children.length >= 1) {
           const tocItems = Array.from(toc.children[0].children);
-  
+
           const previousHeading = toc.previousElementSibling;
-          previousHeading.matches('.active') ? pushClass(toc, tocActive) : false;
-    
+          previousHeading.matches(`.${active}`) ? pushClass(toc, tocActive) : false;
+
           tocItems.forEach(function(item){
             pushClass(item, 'toc_item');
             pushClass(item.firstElementChild, 'toc_link');
@@ -176,13 +121,13 @@ function loadActions() {
         const pageIds = pageInternalLinks.map(function(link){
           return link.hash;
         });
-        
+
         const linkPositions = pageIds.map(function(id){
-          const heading = elem(id);
+          const heading = document.getElementById(decodeURIComponent(id.replace('#','')));
           const position = heading.offsetTop;
           return position;
         });
-        
+
         pageInternalLinks.forEach(function(link, index){
           link.dataset.position = linkPositions[index]
         });
@@ -196,66 +141,24 @@ function loadActions() {
         });
       }
     }
-  })();
 
-  function searchResults(results=[], order =[]) {
-    let resultsFragment = new DocumentFragment();
-    let showResults = elem('.search_results');
-    emptyEl(showResults);
-    let index = 0
-    results.forEach(function(result){
-      let item = createEl('a');
-      item.href = result.link;
-      item.className = 'search_result';
-      item.textContent = result.title;
-      item.style.order = order[index];
-      resultsFragment.appendChild(item);
-      index += 1
+    const paragraphs = elems('p');
+    paragraphs.forEach(function(p){
+      const buttons = elems('.button', p);
+      if(buttons.length > 1) {
+        pushClass(p, 'button_grid');
+      }
     });
-    
-    showResults.appendChild(resultsFragment);
-  }
-  
-  (function search(){
-    const searchField = elem('.search_field');
-    
-    if (searchField) {
-      searchField.addEventListener('input', function() {
-        let rawResults = idx.search(`${ this.value }`).slice(0,6);
-        let refs = rawResults.map(function(ref){
-          // return id and score in a single string
-          return `${ref.ref}:${ref.score}`;
-        });
-        
-        let ids = refs.map(function(id){
-          let positionOfSeparator = id.indexOf(":");
-          id = id.substring(0,positionOfSeparator)
-          return Number(id);
-        });
-        
-        let scores = refs.map(function(score){
-          let positionOfSeparator = score.indexOf(":");
-          score = score.substring((positionOfSeparator + 1), (score.length - 1));
-          return (parseFloat(score) * 50).toFixed(0);
-        });
-        
-        let matchedDocuments = simpleIndex.filter(function(doc){
-          return ids.includes(doc.id);
-        });
-        
-        matchedDocuments.length >= 1 ? searchResults(matchedDocuments, scores) : false;
-      });
-    }
-    
   })();
 
-  (function makeExternalLinks(){
+  (function markExternalLinks(){
     let links = elems('a');
     if(links) {
       Array.from(links).forEach(function(link){
         let target, rel, blank, noopener, attr1, attr2, url, isExternal;
-        url = elemAttribute(link, 'href');
-        isExternal = (url && typeof url == 'string' && url.startsWith('http')) && !url.startsWith(parentURL) ? true : false;
+        url = new URL(link.href);
+        // definition of same origin: RFC 6454, section 4 (https://tools.ietf.org/html/rfc6454#section-4)
+        isExternal = url.host !== location.host || url.protocol !== location.protocol || url.port !== location.port;
         if(isExternal) {
           target = 'target';
           rel = 'rel';
@@ -280,7 +183,7 @@ function loadActions() {
     results = document.getElementsByTagName(tag);
     Array.prototype.push.apply(headingNodes, results);
   });
-  
+
   function sanitizeURL(url) {
     // removes any existing id on url
     const hash = '#';
@@ -305,27 +208,6 @@ function loadActions() {
       pushClass(node, 'link_owner');
     }
   });
-
-  const copyToClipboard = str => {
-    let copy, selection, selected;
-    copy = createEl('textarea');
-    copy.value = str;
-    copy.setAttribute('readonly', '');
-    copy.style.position = 'absolute';
-    copy.style.left = '-9999px';
-    selection = document.getSelection();
-    doc.appendChild(copy);
-    // check if there is any selected content
-    selected = selection.rangeCount > 0 ? selection.getRangeAt(0) : false;
-    copy.select();
-    document.execCommand('copy');
-    doc.removeChild(copy);
-    if (selected) { // if a selection existed before copying
-      selection.removeAllRanges(); // unselect existing selection
-      selection.addRange(selected); // restore the original selection
-    }
-  }
-
 
   function copyFeedback(parent) {
     const copyText = document.createElement('div');
@@ -358,6 +240,147 @@ function loadActions() {
       });
     }
   })();
+
+  const light = 'light';
+  const dark = 'dark';
+  const storageKey = 'colorMode';
+  const key = '--color-mode';
+  const data = 'data-mode';
+  const bank = window.localStorage;
+
+  function prefersColor(mode){
+    return `(prefers-color-scheme: ${mode})`;
+  }
+
+  function systemMode() {
+    if (window.matchMedia) {
+      const prefers = prefersColor(dark);
+      return window.matchMedia(prefers).matches ? dark : light;
+    }
+    return light;
+  }
+
+  function currentMode() {
+    let acceptableChars = light + dark;
+    acceptableChars = [...acceptableChars];
+    let mode = getComputedStyle(doc).getPropertyValue(key).replace(/\"/g, '').trim();
+
+    mode = [...mode].filter(function(letter){
+      return acceptableChars.includes(letter);
+    });
+
+    return mode.join('');
+  }
+
+  /**
+   * @param isDarkMode true means from dark to light, false means from light to dark
+   */
+  function changeMode(isDarkMode) {
+    if(isDarkMode) {
+      bank.setItem(storageKey, light)
+      elemAttribute(doc, data, light);
+    } else {
+      bank.setItem(storageKey, dark);
+      elemAttribute(doc, data, dark);
+    }
+  }
+
+  (function lazy() {
+    function lazyLoadMedia(element) {
+      let mediaItems = elems(element);
+      if(mediaItems) {
+        Array.from(mediaItems).forEach(function(item) {
+          item.loading = "lazy";
+        });
+      }
+    }
+    lazyLoadMedia('iframe');
+    lazyLoadMedia('img');
+  })();
+
+  (function makeTablesResponsive(){
+    const tables = elems('table');
+    if (tables) {
+      tables.forEach(function(table){
+        const tableWrapper = createEl();
+        pushClass(tableWrapper, 'scrollable');
+        wrapEl(table, tableWrapper);
+      });
+    }
+  })();
+
+  function pickModePicture(user, system, context) {
+    const pictures = elems('picture');
+    if(pictures) {
+      pictures.forEach(function(picture){
+        let source = picture.firstElementChild;
+        if(user == system) {
+          context ? source.media = prefersColor(dark) : false;
+        } else {
+          if(system == light) {
+            source.media = (user === dark) ? prefersColor(light) : prefersColor(dark) ;
+          } else {
+            source.media = (user === dark) ? prefersColor(dark) : prefersColor(light) ;
+          }
+        }
+      });
+    }
+  }
+
+  function setUserColorMode(mode = false) {
+    const isDarkMode = currentMode() == dark;
+    const storedMode = bank.getItem(storageKey);
+    const sysMode = systemMode();
+    if(storedMode) {
+      if(mode) {
+        changeMode(isDarkMode);
+      } else {
+        elemAttribute(doc, data, storedMode);
+      }
+    } else {
+      if(mode === true) {
+        changeMode(isDarkMode)
+      } else {
+        changeMode(sysMode!==dark);
+      }
+    }
+    const userMode = doc.dataset.mode;
+    doc.dataset.systemmode = sysMode;
+    if(userMode) {
+      pickModePicture(userMode,sysMode,mode);
+    }
+  }
+
+  setUserColorMode();
+
+  doc.addEventListener('click', function(event) {
+    let target = event.target;
+    let modeClass = 'color_choice';
+    let isModeToggle = containsClass(target, modeClass);
+    if(isModeToggle) {
+      setUserColorMode(true);
+    }
+    toggleMenu(event);
+  });
+
+  (function backToTop(){
+    const toTop = elem("#toTop");
+    window.addEventListener("scroll", function(e) {
+      const lastKnownScrollPosition = window.scrollY;
+      if(lastKnownScrollPosition >= 200) {
+        toTop.style.display = "flex";
+        const viewPort = window.innerWidth;
+        const maxBodyWidth = 1240;
+        // if(viewPort > maxBodyWidth) {
+        //   toTop.style.right = `${((viewPort - maxBodyWidth) / 2)}px`;
+        // }
+        pushClass(toTop, active);
+      } else {
+        deleteClass(toTop, active);
+      }
+    })
+  })();
+
 }
 
 window.addEventListener('load', loadActions());

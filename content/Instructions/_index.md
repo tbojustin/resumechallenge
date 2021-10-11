@@ -4,16 +4,6 @@ title: "Instructions"
 weight: 1
 ---
 
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<div class="info-msg">
-   Get <a href="https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/website-offer">the Cloud Resume Challenge book for 10% off</a> right now!
-</div>
-
 # Instructions
 Here are the steps of the original Cloud Resume Challenge; they are free for anyone to use. See [the FAQ](https://cloudresumechallenge.dev/faq) for more context on why I chose these specific steps.
 
@@ -68,3 +58,4 @@ Create a second GitHub repository for your website code. Create GitHub Actions s
 Finally, in the text of your resume, you should link a short blog post describing some things you learned while working on this project. [Dev.to](https://dev.to) is a great place to publish if you don't have your own blog.
 
 And that's the gist of it! For strategies, tools, and further challenges to help you get hired in cloud, check out <a href="https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book">the Cloud Resume Challenge book</a>.
+

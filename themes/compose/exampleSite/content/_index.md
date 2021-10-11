@@ -1,25 +1,33 @@
 +++
 title = "Compose"
+[data]
+baseChartOn = 3
+colors = ["#627c62", "#11819b", "#ef7f1a", "#4e1154"]
+columnTitles = ["Section", "Status", "Author"]
+fileLink = "content/projects.csv"
+title = "Projects"
+
 +++
-
-{{< block "grid-2 mt-2" >}}
+{{< block "grid-2" >}}
 {{< column >}}
 
-# Compose your Docs with __Ease__.
+# Compose your Docs with **Ease**.
 
-Compose is a lean theme for the `Hugo`, inspired by [forestry.io](https://forestry.io). 
+Compose is a lean `Hugo` domentation theme, inspired by [forestry.io](https://forestry.io/docs/welcome/).
 
-We do a [Pull Request](https://github.com/onweru/compose/pulls) contributions workflow on **GitHub**. Also feel free to raise any issues or feature suggestions.
+{{< tip "warning" >}}
+Feel free to open a [PR](https://github.com/onweru/compose/pulls), raise an [issue](https://github.com/onweru/compose/issues/new/choose "Open a Github Issue")(s) or request new feature(s). {{< /tip >}}
 
-Note that the theme is built with simplicity in mind. This way, if a suggestion complicates the usability of the theme, it may be declined. New users are always welcome!
+{{< tip >}}
+You can generate diagrams, flowcharts, and piecharts from text in a similar manner as markdown using [mermaid](./docs/compose/mermaid/).
 
-{{< button "docs/" "Read the Docs" >}} {{< button "https://github.com/onweru/compose" "Download Theme" >}}
+Or, [generate graphs, charts](docs/compose/graphs-charts-tables/#show-a-pie-doughnut--bar-chart-at-once) and tables from a csv, ~~or a json~~ file.
+{{< /tip >}}
 
+{{< button "docs/compose/" "Read the Docs" >}}{{< button "https://github.com/onweru/compose" "Download Theme" >}}
 {{< /column >}}
+
 {{< column >}}
-![diy](/images/diy.jpeg)
-
-<!-- Photo by [Jasmin Schreiber](https://unsplash.com/@lavievagabonde?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash -->
-
+![diy](/images/scribble.jpg)
 {{< /column >}}
 {{< /block >}}

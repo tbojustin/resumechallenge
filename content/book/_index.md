@@ -3,18 +3,14 @@ title: "Book"
 weight: 1
 ---
 
+# A proven way to advance your cloud career.
+
 {{< block "grid-2 mt-2" >}}
 {{< column >}}
 
-<br>
-<br>
-<br>
-<br>
-<br>
+> **"This challenge was a HUGE hit with prospective employers."** <br> 
 
-# A proven way to advance your cloud career.
-
-> **"This challenge was a HUGE hit with prospective employers."** <br> -*Tejas B, from help desk to DevOps engineer*
+-*Tejas B, from help desk to DevOps engineer*
 
 Since April 2020, the Cloud Resume Challenge has helped hundreds of people
 
@@ -26,15 +22,14 @@ Since April 2020, the Cloud Resume Challenge has helped hundreds of people
 
 Now, I've packed the top challenge tips, strategies, and resources into one book, so you too can build skills, make connections, and get a cloud job FAST.
 
-> **"If you want to get your first job in the cloud, there is NO BETTER OFFER right now than Forrest Brazeal's Cloud Resume Challenge."** <br> -[Shawn "swyx" Wang, author of "Cracking the Coding Career"](https://twitter.com/swyx/status/1266355081995149313)
+> **"If you want to get your first job in the cloud, there is NO BETTER OFFER right now than Forrest Brazeal's Cloud Resume Challenge."**
 
-{{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/web" "Get the book" >}}
+*-[Shawn "swyx" Wang](https://twitter.com/swyx/status/1266355081995149313), author of "Cracking the Coding Career"*
+
+{{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/web" "Get the book" >}}{{< button "https://cloudirregular.substack.com/p/the-greatest-resume-ive-ever-seen" "Read a sample" >}}
 
 {{< /column >}}
 {{< column >}}
-<br>
-<br>
-
 [![diy](/images/book.png)](https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/web)
 
 {{< /column >}}
@@ -58,6 +53,8 @@ I used feedback from the 1500+ member Cloud Resume Challenge Discord community t
 
 Plus, you get free access to my regular ["Best Jobs in Cloud" newsletter](https://cloudresumechallenge.dev/newsletter), featuring **curated job opportunities** for both juniors and seniors.
 
-> **"Everyone in the interview loop at Amazon seemed impressed with the range of services used within this one project."** <br> -*Jerry M, from respiratory therapist to solutions architect at AWS*
+> **"Everyone in the interview loop at Amazon seemed impressed with the range of services used within this one project."**
+
+-*[Jerry M](/halloffame/#jerry-from-respiratory-therapist-to-aws), from respiratory therapist to solutions architect at AWS*
 
 {{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/web" "Get started now" >}}

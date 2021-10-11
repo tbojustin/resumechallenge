@@ -2,32 +2,29 @@ baseURL = "https://cloudresumechallenge.dev/"
 languageCode = "en-us"
 title = "Cloud Resume Challenge"
 enableRobotsTXT = true
-theme = ["github.com/onweru/compose"]
+theme = "compose"
 enableGitInfo = true
+ga_analytics = "UA-128893913-3"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 #  menu items
 [[menu.main]]
-    name = "Challenge"
-    weight = 1
-    url = "instructions/"
-[[menu.main]]
-    name = "FAQ"
-    weight = 2
-    url = "faq/"
-[[menu.main]]
-    name = "Stories"
-    weight = 5
+    name = "Success Stories"
+    weight = 4
     url = "halloffame/"
 [[menu.main]]
     name = "Get The Book"
-    weight = 3
+    weight = 2
     url = "book/"
 [[menu.main]]
-    name = "Jobs"
-    weight = 4
+    name = "Get Hired"
+    weight = 3
     url = "newsletter/"
+[[menu.main]]
+    name = "Take The Challenge"
+    weight = 1
+    url = "docs/the-challenge"
 
 [markup]
   [markup.goldmark]
@@ -50,9 +47,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   author = "Forrest Brazeal"
   searchPlaceholder = "Search ..."
   mobileNavigation = "left"
+  enableSearch = false
+  uniqueHomePage = true
+  enableDarkMode = true
 
   time_format_blog = "Monday, January 02, 2006"
   time_format_default = "January 2, 2006"
   [params.logo]
-    lightMode = "logo.png"
-    darkMode = "logo.png"
+    lightMode = "images/logo.svg"
+    darkMode = "images/logo.svg"

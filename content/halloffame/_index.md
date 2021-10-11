@@ -3,16 +3,6 @@
 title: "Hall of Fame"
 weight: 1
 ---
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<div class="info-msg">
-   Get <a href="https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/website-offer">the Cloud Resume Challenge book for 10% off</a> right now!
-</div>
-
 # Hall of Fame
 
 Here we celebrate the stories of those who crush the Cloud Resume Challenge. Many of these folks had no previous IT experience. All of them are now certified cloud practitioners.

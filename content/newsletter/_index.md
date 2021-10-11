@@ -1,14 +1,6 @@
 +++
 title = "The cloud resume challenge"
 +++
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
 # Get the inside track on the best jobs in cloud.
 
 > "**I’ve gotten a huge uptick in outreach and most importantly, quality candidates from this newsletter.**"<br>- Robert B, cloud hiring manager at Verizon
@@ -21,7 +13,7 @@ title = "The cloud resume challenge"
 
 In each issue, I curate awesome cloud job opportunities from around my network, including an inside referral for each job so you can skip the application line.
 
-{{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/web" "Get the book" >}}{{< button "https://cloudirregular.substack.com/" "I just want the newsletter" >}}
+{{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/website-offer" "Get the book  (10% off!)" >}}{{< button "https://cloudirregular.substack.com/" "I just want the newsletter" >}}
 
 {{< /column >}}
 {{< column >}}
@@ -51,5 +43,5 @@ Whether you're actively looking for a new job or not, you should be reading this
 
 You can sign up to the newsletter alone for $5/month - but again, it comes free with your [book purchase](https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/web)!
 
-{{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/web" "Get the book" >}}{{< button "https://forms.gle/WWeiMmpaXzfxr3G3A" "Submit a job listing (free)" >}}
+{{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/web" "Get the book" >}}{{< button "https://forms.gle/WWeiMmpaXzfxr3G3A" "Submit a job (free)" >}}
 
