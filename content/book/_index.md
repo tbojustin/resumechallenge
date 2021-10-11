@@ -10,7 +10,7 @@ weight: 1
 
 > **"This challenge was a HUGE hit with prospective employers."** <br> 
 
--*Tejas B, from help desk to DevOps engineer*
+-*[Tejas B](halloffame/#tejas-story-the-road-from-help-desk-to-devops-engineer), from help desk to DevOps engineer*
 
 Since April 2020, the Cloud Resume Challenge has helped hundreds of people
 
