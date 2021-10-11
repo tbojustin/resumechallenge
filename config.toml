@@ -1,10 +1,12 @@
 baseURL = "https://cloudresumechallenge.dev/"
 languageCode = "en-us"
-title = "Cloud Resume Challenge"
+title = "The Cloud Resume Challenge"
+description = "A proven way to advance your cloud career - in just 16 steps."
+images = ['images/book.png']
 enableRobotsTXT = true
 theme = "compose"
 enableGitInfo = true
-ga_analytics = "UA-128893913-3"
+googleAnalytics = "UA-128893913-3"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
