@@ -1,7 +1,7 @@
 +++
 title = "The cloud resume challenge"
 +++
-# Get the inside track on the best jobs in cloud.
+# Get inside referrals to the best cloud jobs.
 
 > "**I’ve gotten a huge uptick in outreach and most importantly, quality candidates from this newsletter.**"<br>- Robert B, cloud hiring manager at Verizon
 
