@@ -1,5 +1,5 @@
 +++
-title = "The cloud resume challenge"
+title = "The Cloud Resume Challenge"
 description = "A proven way to advance your cloud career - in just 16 steps."
 images = ['images/book.png']
 +++
