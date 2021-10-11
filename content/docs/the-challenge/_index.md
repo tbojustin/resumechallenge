@@ -1,5 +1,7 @@
 ---
 title: "Take the challenge"
+description: "Free for anyone to try. AWS, Azure, or GCP - you make the choice!"
+images: ['images/resume.png']
 weight: 1
 ---
 
