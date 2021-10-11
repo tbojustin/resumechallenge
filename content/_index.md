@@ -1,5 +1,7 @@
 +++
 title = "The cloud resume challenge"
+description = "A proven way to advance your cloud career - in just 16 steps."
+images = ['images/book.png']
 +++
 
 {{< block "grid-2 mt-2" >}}
