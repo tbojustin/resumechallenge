@@ -1,0 +1,30 @@
+---
+title: "Helpful resources"
+description: "Resources curated from the community to help you crush the Cloud Resume Challenge"
+images: ['images/resume.png']
+weight: 1
+---
+
+Have you created an awesome tutorial video or blog about the Cloud Resume Challenge that should be on this page? Have you created your own challenge prompt using the Cloud Resume Challenge format? Feel free to [submit a pull request](https://github.com/forrestbrazeal/resumechallenge)!
+
+### The Cloud Resume Challenge Book
+The [definitive resource](/book) for crushing the challenge and getting hired in cloud. Includes four additional challenges - two on AWS, one on Kubernetes / Google Cloud, and one that touches all three cloud providers.
+
+### The Cloud Resume Challenge Discord Server
+This is the place to be if you are working on the challenge. Join ~2000 other cloud enthusiasts ranging from beginners to experienced mentors. Ask your challenge questions, get code review, view cloud job postings, or just chat about cloud and life. It's free and very chill. What more reason do you need? [Join us already](https://discord.gg/2PTwAth).
+
+### The Cloud Resume Challenge Video Tutorials
+Are you a visual learner? Lou Bichard, founder of [Open Up The Cloud](https://openupthe.cloud/) and tireless friend of the challenge, has put together [a comprehensive video series](https://www.youtube.com/watch?v=e7vZe7qZFmE) walking through each step of the original challenge. His [associated GitHub repository](https://github.com/openupthecloud/cloud-resume-challenge) also curates a nice selection of blogs written by challenge champions.
+
+### The Challenge in Spanish
+Challenger Jesus Rodriguez generously gave his time to translate [the AWS challenge](https://cloudresumechallenge.dev/instructions_es/), as well as [some FAQ](https://cloudresumechallenge.dev/faq_es/), into Spanish. If you'd like the Cloud Resume Challenge translated into another language and have the know-how to do so, please feel free to [submit a pull request](https://github.com/forrestbrazeal/resumechallenge).
+
+### The Cloud Guru Challenges
+Created under my supervision back when I worked at A Cloud Guru, [these projects](https://acloudguru.com/blog/tag/cloudguruchallenge) are part of a larger attempt to extend the general challenge format to a variety of technical projects, and the response has mostly been pretty good. I'd suggest starting with [the COVID-19 tracking project I created](https://acloudguru.com/blog/engineering/cloudguruchallenge-python-aws-etl). Note that each of these projects includes "extra credit" ideas for making it your own - take advantage of that, as most folks don't!
+
+### The Best Jobs in Cloud
+My regular ["Best Jobs in Cloud" newsletter](/newsletter) rounds up job opportunities from people I know and trust in the cloud community. The best part: each job comes with direct contact information to reach out to an internal referral inside the company, no blind applications required. 
+
+The job roles range from junior to senior, and many of these hiring managers are familiar with the Cloud Resume Challenge and love to hire champions. If you've bought [the book](/book), you're already subscribed to The Best Jobs in Cloud at no extra charge. If not, you can sign up [here](https://cloudirregular.substack.com).
+
+
