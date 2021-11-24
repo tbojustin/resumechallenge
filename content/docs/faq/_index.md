@@ -5,7 +5,7 @@ weight: 1
 ---
 
 {{< tip >}}
-Get [the Cloud Resume Challenge book for 10% off](https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/website-offer) right now!
+Save 50% on [the Cloud Resume Challenge book](https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/black-friday-2021) for Black Friday!
 {{< /tip >}}
 
 ## What is the Cloud Resume Challenge?
