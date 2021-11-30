@@ -3,7 +3,7 @@ title: "Book"
 weight: 1
 ---
 
-# A proven way to advance your cloud career - 50% off for Black Friday!
+# A proven way to advance your cloud career.
 
 {{< block "grid-2 mt-2" >}}
 {{< column >}}
@@ -26,11 +26,11 @@ Now, I've packed the top challenge tips, strategies, and resources into one book
 
 *-[Shawn "swyx" Wang](https://twitter.com/swyx/status/1266355081995149313), author of "Cracking the Coding Career"*
 
-{{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/black-friday-2021" "Get the book" >}}{{< button "https://cloudirregular.substack.com/p/the-greatest-resume-ive-ever-seen" "Read a sample" >}}
+{{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/web" "Get the book" >}}{{< button "https://cloudirregular.substack.com/p/the-greatest-resume-ive-ever-seen" "Read a sample" >}}
 
 {{< /column >}}
 {{< column >}}
-[![diy](/images/book-black-friday.png)](https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/black-friday-2021)
+[![diy](/images/book.png)](https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/web)
 
 {{< /column >}}
 {{< /block >}}
@@ -57,4 +57,4 @@ Plus, you get free access to my regular ["Best Jobs in Cloud" newsletter](https:
 
 -*[Jerry M](/halloffame/#jerry-from-respiratory-therapist-to-aws), from respiratory therapist to solutions architect at AWS*
 
-{{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/black-friday-2021" "Get started now" >}}
+{{< button "https://forrestbrazeal.gumroad.com/l/cloud-resume-challenge-book/web" "Get started now" >}}
