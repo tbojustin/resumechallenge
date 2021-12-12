@@ -28,3 +28,11 @@ HUGO_VERSION = "0.64.0"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+  from = "/instructions"
+  to = "/docs/the-challenge"
+  status = 301
+  force = false
+  query = {path = ":path"}
+
