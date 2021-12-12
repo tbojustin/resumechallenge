@@ -33,6 +33,4 @@ HUGO_ENABLEGITINFO = "true"
   from = "/instructions"
   to = "/docs/the-challenge"
   status = 301
-  force = false
-  query = {path = ":path"}
 
