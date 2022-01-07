@@ -35,7 +35,7 @@ The [book](https://cloudresumechallenge.dev/book) is full of tools, tips, and re
 
 ## Does completing the Cloud Resume Challenge guarantee I will get a job in the cloud?
 
-No. But it has helped [a lot of folks](https://cloudresumechallenge.dev/halloffame) along that road.
+No. But it has helped [a lot of folks](https://cloudresumechallenge.dev/halloffame) along that road. Also, members of the community are active in the [Discord server](https://discord.gg/2PTwAth) and have helped others during the challenge. In addition to that, community members who've completed the challenge - "Champions" - are organizing to help with networking for spectrum of demand for talent in the cloud (frontend, backend, ops, etc.)
 
 Now, fair warning: you will have to open a large number of browser tabs to figure out the challenge. It will take you quite a few long evenings at the kitchen table. You might reasonably conclude that none of it is worth the dubious reward of having a side project on your resume.
 
